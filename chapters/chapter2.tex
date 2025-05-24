@@ -1,0 +1,50 @@
+\chapter{Slither's performance analysis}
+This chapter will be dedicated to assessing Slither's performance in terms of vulnerability detection. The metrics used to determine how well security scanning tools work are: detection rate (how often a tool can correctly flag a vulnerability), analysis speed and attacks coverage (the variety of attacks that a tool can prevent).
+
+\begin{table}[h]
+\small
+\begin{tabular}{cc|cccc|}
+\cline{3-6}
+                                                           &                         & \multicolumn{1}{c|}{Slither} & \multicolumn{1}{c|}{Securify} & \multicolumn{1}{c|}{SmartCheck} & Solhint       \\ \hline
+\multicolumn{1}{|c|}{\multirow{3}{*}{Accuracy}}            & False Positive Rate     & 10.9\%                       & 25\%                          & 73.6\%                          & 91.3\%        \\
+\multicolumn{1}{|c|}{}                                     & Flagged contracts       & 112                          & 8                             & 793                             & 81            \\
+\multicolumn{1}{|c|}{}                                     & Detections per contract & 3.17                         & 2.12                          & 10.22                           & 2.16          \\ \hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{Performance}}         & Execution time  & 0.79 $\pm$ 1                   & 41.4 $\pm$ 46.3  & 10.9 $\pm$ 7.14                   & 0.95 $\pm$ 0.35 \\
+\multicolumn{1}{|c|}{}                                     & Time out rate           & 0\%                          & 20.4\%                        & 4\%                             & 0\%           \\ \hline
+\multicolumn{1}{|c|}{Robustness}                           & Failure rate            & 0.1\%                        & 11.2\%                        & 10.22\%                         & 1.2\%         \\ \hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{Reentrancy examples}} & DAO                     & Yes                          & No                            & Yes                             & No            \\
+\multicolumn{1}{|c|}{}                                     & Spankchain              & Yes                          & No                            & No                              & No            \\ \hline
+\end{tabular}
+\caption{Performance comparison between Slither, Securify, SmartCheck and Solhint. From Josselin F. et al.\cite{slither}}
+\label{tab:my-table}
+\end{table}
+
+The table above covers the first two performance criteria: the detection rate and analysis speed. The experiment was done by analyzing 1000 contracts focusing only on reentrancy detectors. Slither's results are visibly better than the ones obtained by its counterparts. Firstly, it's false positive rate is far lower, at just 10.9\%, while Securify falls in the second place with 25\%. Secondly, it's average execution time is also significantly lower than those of Securify and SmartCheck. In short, Slither is by far faster, more accurate and more consistent than the other three tools. Another important aspect is the time out rate of 0\% for Slither and Solhint, which further supports Slither's consistency in the detection of reentrancy attacks. Also, while this results do not conclude Slither's attack coverage, we can see it is the only tool that managed to detect attacks similar to the ones that targeted DAO or Spankchain, which are notorious for the amount of funds stolen and its effect on people's perception towards blockchain's security.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|cccccc|}
+\hline
+\multicolumn{1}{|c|}{Vulnerabilities} & \multicolumn{1}{c|}{Read} & \multicolumn{1}{c|}{TP} & \multicolumn{1}{c|}{TN} & \multicolumn{1}{c|}{FP} & FN \\ \hline
+\multicolumn{1}{|c|}{Re-entrancy}     & 29/31                     & 28                      & 0                       & 0                       & 1  \\
+\multicolumn{1}{|c|}{Access Control}  & 18/18                     & 14                      & 0                       & 0                       & 3  \\
+\multicolumn{1}{|c|}{Arithmetic}      & 15/15                     & 0                       & 0                       & 5                       & 0  \\
+\multicolumn{1}{|c|}{Unchecked LLC}   & 26/26                     & 26                      & 0                       & 0                       & 3  \\ \hline
+Total                                 & 88                        & 68                      & 0                       & 5                       & 7  \\ \hline
+\end{tabular}
+\caption{Slither's coverage of security attacks. Adapted from Senan B. \cite{staticAnalysisTest}}
+\label{tab:my-table1}
+\end{table}
+
+This table shows how Slither can detect four types of vulnerabilities: Reentrancy, Access Control, Arithmetic and Unchecked LLC and covers 4 cases: True Positive(TP), True Negative(TN), False Positive(FP) and False Negative(FN). Out of the 90 test cases given, 88 passed the reading phase, 68 had got correctly flagged as vulnerable, five ended up as False Positives and seven as False Negatives. That equates to a rate of 77.27\% for True Positive, 5.68\% for False Positive and 7.95\% for False Negative. Therefore, while in almost 6\% of cases the user is falsely lead to believe a section of his code is vulnerable, a case that has no impact on the project's security, the rate at which Slither misses a vulnerability is almost 8\%. In particular, Slither missed 3.45\% of reentrancy attacks, 16.67\% of Access Contol attacks, none of the Arithmetic attacks and 11.54\% of Unchecked LLC attacks. As such, Slither may leave the analyzed project open to Access Control and Unchecked LLC attacks to a higher degree.
+\section{Titlul secțiunii 1}
+
+A diam sollicitudin tempor id eu nisl. Hac habitasse platea dictumst vestibulum. Integer enim neque volutpat ac tincidunt. Facilisi nullam vehicula ipsum a arcu cursus vitae congue. Vel turpis nunc eget lorem. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Nunc sed blandit libero volutpat. Sit amet luctus venenatis lectus magna fringilla urna porttitor. Hac habitasse platea dictumst quisque sagittis purus. Sed faucibus turpis in eu mi bibendum neque egestas. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Erat nam at lectus urna duis convallis convallis tellus id. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. Etiam dignissim diam quis enim lobortis scelerisque. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Lacus viverra vitae congue eu consequat ac felis donec. Mauris sit amet massa vitae tortor condimentum. Mauris augue neque gravida in. Lorem ipsum dolor sit amet. Arcu dui vivamus arcu felis bibendum ut tristique et.
+
+\section{Titlul secțiunii 2}
+
+Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Ligula ullamcorper malesuada proin libero nunc consequat interdum. Mauris a diam maecenas sed enim ut. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Leo duis ut diam quam nulla. Neque ornare aenean euismod elementum. Vitae sapien pellentesque habitant morbi tristique senectus. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. At quis risus sed vulputate odio ut enim. Hac habitasse platea dictumst quisque sagittis. Lectus vestibulum mattis ullamcorper velit sed. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Vulputate dignissim suspendisse in est ante. Sed faucibus turpis in eu mi bibendum neque. Enim eu turpis egestas pretium aenean pharetra magna. Tellus mauris a diam maecenas.
+
+\section{Titlul secțiunii 3}
+
+Faucibus ornare suspendisse sed nisi lacus sed. Mi in nulla posuere sollicitudin aliquam ultrices. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Odio tempor orci dapibus ultrices in iaculis nunc sed augue. Congue eu consequat ac felis donec et odio. Enim ut sem viverra aliquet eget sit amet. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Quis blandit turpis cursus in. Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Lacus viverra vitae congue eu consequat ac felis. Vulputate dignissim suspendisse in est ante in nibh mauris. Amet mauris commodo quis imperdiet massa. Varius sit amet mattis vulputate enim nulla aliquet. Pellentesque diam volutpat commodo sed egestas egestas. Amet est placerat in egestas erat imperdiet sed euismod. Scelerisque varius morbi enim nunc faucibus a pellentesque sit. Ut sem viverra aliquet eget sit amet tellus cras. Sem integer vitae justo eget magna fermentum iaculis eu.

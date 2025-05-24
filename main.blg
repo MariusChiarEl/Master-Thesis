@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+Database file #1: chapters/bibliography.bib
+Warning--empty journal in staticAnalysisTest
+Warning--empty journal in dynamicAnalysis
+Warning--empty journal in staticAnalysisDef
+Warning--empty journal in reentrancy
+Warning--empty journal in slither
+Warning--empty journal in staticAnalysisToolsComparison
+Warning--empty journal in manticore
+Warning--empty journal in blockchainAttacks
+Warning--empty booktitle in replay
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            549 strings with 5862 characters,
+and the built_in function-call counts, 3382 in all, are:
+= -- 295
+> -- 228
+< -- 0
++ -- 92
+- -- 78
+* -- 206
+:= -- 625
+add.period$ -- 37
+call.type$ -- 12
+change.case$ -- 74
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 117
+empty$ -- 224
+format.name$ -- 78
+if$ -- 657
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 10
+newline$ -- 64
+num.names$ -- 24
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 62
+quote$ -- 0
+skip$ -- 85
+stack$ -- 0
+substring$ -- 62
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 9
+while$ -- 24
+width$ -- 14
+write$ -- 114
+(There were 9 warnings)

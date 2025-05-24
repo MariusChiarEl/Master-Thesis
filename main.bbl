@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{symbolicExecutionDef}
+Roberto Baldoni, Emilio Coppa, Daniele~Cono D'Elia, Camil Demetrescu, and Irene
+  Finocchi.
+\newblock A survey of symbolic execution techniques.
+\newblock {\em ACM Comput. Surv.}, 2018.
+
+\bibitem{staticAnalysisTest}
+Senan Behan.
+\newblock Solidity smart contract testing with static analysis tools.
+\newblock 2022.
+
+\bibitem{dynamicAnalysis}
+Lyubka Dencheva.
+\newblock Comparative analysis of static application security testing (sast)
+  and dynamic application security testing (dast) by using open-source web
+  application penetration testing tools.
+\newblock 2022.
+
+\bibitem{staticAnalysisDef}
+P\"ar Emanuelsson and Ulf Nilsson.
+\newblock A comparative study of industrial static analysis tools.
+\newblock 2008.
+
+\bibitem{reentrancy}
+Noama F. and Manar H.
+\newblock Reentrancy vulnerability identification in ethereum smart contracts.
+\newblock 2021.
+
+\bibitem{slitherGitHub}
+Josselin Feist, Gustavo Grieco, and Alex Groce.
+\newblock Slither github repository.
+\newblock \url{https://github.com/crytic/slither}, 2018.
+
+\bibitem{slither}
+Josselin Feist, Gustavo Grieco, and Alex Groce.
+\newblock Slither: A static analysis framework for smart contracts.
+\newblock 2019.
+
+\bibitem{quadriga}
+Quadriga Initiative.
+\newblock Quadriga initiative.
+\newblock \url{https://quadrigainitiative.com/indexjay.php}.
+\newblock Accessed: 2024-05-24.
+
+\bibitem{staticAnalysisToolsComparison}
+Kaixuan Li et~al.
+\newblock Static application security testing (sast) tools for smart contracts:
+  How far are we?
+\newblock 2024.
+
+\bibitem{manticore}
+Mark Mo, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin
+  Feist, Trent Brunson, and Artem Dinaburg.
+\newblock Manticore: A user-friendly symbolic execution framework for binaries
+  and smart contracts.
+\newblock 2019.
+
+\bibitem{blockchainAttacks}
+Muhammad Saad, Jeffrey Spaulding, Laurent Njilla, Charles Kamhoua, Sachin
+  Shetty, DaeHun Nyang, and Aziz Mohaisen.
+\newblock Exploring the attack surface of blockchain: A systematic overview.
+\newblock 2019.
+
+\bibitem{replay}
+Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, and George Danezis.
+\newblock Replay attacks and defenses against cross shard consensus in sharded
+  distributed ledgers.
+\newblock 2020.
+
+\end{thebibliography}
