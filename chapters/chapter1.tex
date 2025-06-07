@@ -139,11 +139,11 @@ Furthermore, its set of detectors are able to find obvious and subtle vulnerabil
 
 Another essential topic in blockchain development, beside security concerns, is optimization, the techniques used to lower the ``gas'' consumption. Slither includes a set of detectors specialized in finding ways to optimize code \cite{slitherGitHub} from different perspectives. They are able to find issues such as dead code, as in methods or code branches that are never called or executed, unused state variables or variables that should be declared constant to save gas.
 
-As to how it works \cite{slither}, Slither uses a multi stage procedure to parse and process the codebase of a blockchain project. First, it uses the Solidity compiler to generate the Abstract Syntax Tree of the contract, from which it recovers important information: inheritance graph, control flow graph and the list of expressions. Next, the contracts get translated to SlithIR, the internal representation language. The following step is the actual code analysis, in which Slither processes data dependencies, read/write variables and protected functions to output detected vulnerabilies and optimization opportunities. 
-
 \begin{figure}[h]
     \centering
     \includegraphics[width=1\linewidth]{images/image.png}
     \caption{Slither overview. From Josselin F. et al. \cite{slither}}
     \label{fig:enter-label}
 \end{figure}
+
+As to how it works \cite{slither}, Slither uses a multi stage procedure to parse and process the codebase of a blockchain project. First, it uses the Solidity compiler to generate the Abstract Syntax Tree of the contract, from which it recovers important information: inheritance graph, control flow graph and the list of expressions. Next, the contracts get translated to SlithIR, the internal representation language. The following step is the actual code analysis, in which Slither processes data dependencies, read/write variables and protected functions to output detected vulnerabilies and optimization opportunities. 

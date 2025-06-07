@@ -4,29 +4,36 @@
 Roberto Baldoni, Emilio Coppa, Daniele~Cono D'Elia, Camil Demetrescu, and Irene
   Finocchi.
 \newblock A survey of symbolic execution techniques.
-\newblock {\em ACM Comput. Surv.}, 2018.
+\newblock {\em ACM Computing Surveys}, 2018.
 
 \bibitem{staticAnalysisTest}
 Senan Behan.
 \newblock Solidity smart contract testing with static analysis tools.
-\newblock 2022.
+\newblock {\em Blockchain Research and Applications}, 2022.
 
 \bibitem{dynamicAnalysis}
 Lyubka Dencheva.
 \newblock Comparative analysis of static application security testing (sast)
   and dynamic application security testing (dast) by using open-source web
   application penetration testing tools.
-\newblock 2022.
+\newblock {\em International Journal of Computer Applications}, 2022.
+
+\bibitem{ethereumLowerElectricity}
+{Digiconomist}.
+\newblock Ethereum energy consumption index.
+\newblock \url{https://digiconomist.net/ethereum-energy-consumption}, 2023.
+\newblock Accessed: 2025-05-22.
 
 \bibitem{staticAnalysisDef}
 P\"ar Emanuelsson and Ulf Nilsson.
 \newblock A comparative study of industrial static analysis tools.
-\newblock 2008.
+\newblock {\em Electronic Notes in Theoretical Computer Science}, 2008.
 
 \bibitem{reentrancy}
 Noama F. and Manar H.
 \newblock Reentrancy vulnerability identification in ethereum smart contracts.
-\newblock 2021.
+\newblock {\em International Journal of Advanced Computer Science and
+  Applications}, 2021.
 
 \bibitem{slitherGitHub}
 Josselin Feist, Gustavo Grieco, and Alex Groce.
@@ -36,37 +43,60 @@ Josselin Feist, Gustavo Grieco, and Alex Groce.
 \bibitem{slither}
 Josselin Feist, Gustavo Grieco, and Alex Groce.
 \newblock Slither: A static analysis framework for smart contracts.
-\newblock 2019.
+\newblock {\em arXiv preprint arXiv:1908.09834}, 2019.
 
 \bibitem{quadriga}
 Quadriga Initiative.
 \newblock Quadriga initiative.
 \newblock \url{https://quadrigainitiative.com/indexjay.php}.
-\newblock Accessed: 2024-05-24.
+\newblock Accessed: 2025-05-24.
+
+\bibitem{slitherVSsmartCheck}
+Bahareh Lashkari and Petr Musilek.
+\newblock Evaluation of smart contract vulnerability analysis tools: A
+  domain-specific perspective.
+\newblock {\em IEEE Access}, 2023.
 
 \bibitem{staticAnalysisToolsComparison}
 Kaixuan Li et~al.
 \newblock Static application security testing (sast) tools for smart contracts:
   How far are we?
-\newblock 2024.
+\newblock {\em IEEE Access}, 2024.
 
 \bibitem{manticore}
 Mark Mo, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin
   Feist, Trent Brunson, and Artem Dinaburg.
 \newblock Manticore: A user-friendly symbolic execution framework for binaries
   and smart contracts.
-\newblock 2019.
+\newblock {\em arXiv preprint arXiv:1907.03890}, 2019.
+
+\bibitem{badRandomness}
+Peng Qian, Jianting He, Lingling Lu, Siwei Wu, Zhipeng Lu, Lei Wu, Yajin Zhou,
+  and Qinming He.
+\newblock Demystifying random number in ethereum smart contract: Taxonomy,
+  vulnerability identification, and attack detection.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, 2023.
 
 \bibitem{blockchainAttacks}
 Muhammad Saad, Jeffrey Spaulding, Laurent Njilla, Charles Kamhoua, Sachin
   Shetty, DaeHun Nyang, and Aziz Mohaisen.
 \newblock Exploring the attack surface of blockchain: A systematic overview.
-\newblock 2019.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 2019.
+
+\bibitem{arithmeticAttack}
+{SmartState}.
+\newblock Understanding overflow and underflow vulnerabilities in smart
+  contracts.
+\newblock
+  \url{https://smartstate.tech/blog/understanding-overflow-and-underflow-vulnerabilities-in-smart-contracts.html},
+  2023.
+\newblock Accessed: 2025-05-22.
 
 \bibitem{replay}
 Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, and George Danezis.
-\newblock Replay attacks and defenses against cross shard consensus in sharded
+\newblock Replay attacks and defenses against cross-shard consensus in sharded
   distributed ledgers.
-\newblock 2020.
+\newblock In {\em Proceedings of the 2020 ACM SIGSAC Conference on Computer and
+  Communications Security}, 2020.
 
 \end{thebibliography}

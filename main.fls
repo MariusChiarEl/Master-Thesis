@@ -440,14 +440,14 @@ INPUT .\chapters\chapter2.tex
 INPUT .\chapters\chapter2.tex
 INPUT .\chapters\chapter2.tex
 INPUT chapters\chapter2.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT chapters\chapter3.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
