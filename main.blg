@@ -6,45 +6,45 @@ The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 Database file #1: chapters/bibliography.bib
 Warning--I didn't find a database entry for "example_reference"
-You've used 16 entries,
+You've used 18 entries,
             2118 wiz_defined-function locations,
-            579 strings with 7125 characters,
-and the built_in function-call counts, 4498 in all, are:
-= -- 406
-> -- 298
+            592 strings with 7380 characters,
+and the built_in function-call counts, 4932 in all, are:
+= -- 450
+> -- 312
 < -- 0
-+ -- 120
-- -- 102
-* -- 268
-:= -- 834
-add.period$ -- 51
-call.type$ -- 16
-change.case$ -- 98
++ -- 126
+- -- 106
+* -- 280
+:= -- 908
+add.period$ -- 59
+call.type$ -- 18
+change.case$ -- 106
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 152
-empty$ -- 304
-format.name$ -- 102
-if$ -- 890
+cite$ -- 18
+duplicate$ -- 166
+empty$ -- 348
+format.name$ -- 106
+if$ -- 986
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 18
 missing$ -- 12
-newline$ -- 86
-num.names$ -- 32
-pop$ -- 120
+newline$ -- 98
+num.names$ -- 36
+pop$ -- 136
 preamble$ -- 1
-purify$ -- 82
+purify$ -- 88
 quote$ -- 0
-skip$ -- 112
+skip$ -- 124
 stack$ -- 0
-substring$ -- 82
-swap$ -- 17
+substring$ -- 92
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
+type$ -- 72
 warning$ -- 0
-while$ -- 32
-width$ -- 18
-write$ -- 167
+while$ -- 36
+width$ -- 20
+write$ -- 191
 (There was 1 warning)

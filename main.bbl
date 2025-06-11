@@ -45,6 +45,12 @@ Josselin Feist, Gustavo Grieco, and Alex Groce.
 \newblock Slither: A static analysis framework for smart contracts.
 \newblock {\em arXiv preprint arXiv:1908.09834}, 2019.
 
+\bibitem{gitHubRestAPI}
+{GitHub}.
+\newblock Github rest api documentation.
+\newblock \url{https://docs.github.com/en/rest?apiVersion=2022-11-28}, 2025.
+\newblock Accessed: 2025-06-08.
+
 \bibitem{quadriga}
 Quadriga Initiative.
 \newblock Quadriga initiative.
@@ -98,5 +104,11 @@ Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, and George Danezis.
   distributed ledgers.
 \newblock In {\em Proceedings of the 2020 ACM SIGSAC Conference on Computer and
   Communications Security}, 2020.
+
+\bibitem{pySide6}
+{The Qt Company}.
+\newblock Pyside6 documentation.
+\newblock \url{https://doc.qt.io/qtforpython-6/}, 2025.
+\newblock Accessed: 2025-06-11.
 
 \end{thebibliography}

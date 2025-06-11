@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1749304064.59398 "main.aux" "main.bbl" "main" 1749306011.30626 0
-  "./chapters/bibliography.bib" 1749233663 4890 f9bb6fc928b499e10a577b9a9d7dae7c ""
+["bibtex main"] 1749666135.61698 "main.aux" "main.bbl" "main" 1749669887.29252 0
+  "./chapters/bibliography.bib" 1749663735 5341 45e39671e1765ccc91c4b0f3e095579f ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1749306010 5852 594569f7a3b562ae33c893fab6b0fa7a "pdflatex"
+  "main.aux" 1749669886 7583 6cefec8439afdb910aa4558c24bf1235 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749306008.94156 "c:/Users/Marius/Desktop/Disertatie/Thesis/main.tex" "main.pdf" "main" 1749306011.30704 0
+["pdflatex"] 1749669884.63952 "c:/Users/Marius/Desktop/Disertatie/Thesis/main.tex" "main.pdf" "main" 1749669887.29336 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136765053 960 379cc0019370a9e0208a0a3f949f847a ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136765053 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -38,6 +38,7 @@
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb" 1136846148 45758 19968a0990191524e34e1994d4a31cb6 ""
   "C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb" 1136846148 52406 dad2f72863a03727d5f536c64a69c452 ""
@@ -200,7 +201,7 @@
   "c:/Users/Marius/Desktop/Disertatie/Thesis/main.tex" 1748197700 1769 be5b8972b1068ae9bc786f98d28bf648 ""
   "chapters/chapter1.tex" 1749304061 14725 63dd152e9d3ef1fba58bb28ef014393e ""
   "chapters/chapter2.tex" 1749306008 11354 84ab110826894f1f76e8da307a2a5215 ""
-  "chapters/chapter3.tex" 1748100671 2805 b409f5aaeb3ab00e84f66ffe696f1a44 ""
+  "chapters/chapter3.tex" 1749666631 8086 fed47d376de9fcd017d45d3d0e2149ef ""
   "chapters/conclusions.tex" 1748100671 938 61376d3deb38ce5eadf8df8d7963f2ee ""
   "chapters/introduction.tex" 1748100672 1725 5227e0aabf5aca42dcb890ad8ec28cf8 ""
   "chapters/motivation.tex" 1748100672 336 f44d764d294fad4d11fda081f06e50d4 ""
@@ -209,13 +210,18 @@
   "front/declaration2.tex" 1748100672 809 8c0b1e445dd5d58b14a753a6ff04644e ""
   "front/macros.tex" 1748100672 1381 f10a52148ed3d45829529b8ad0d3e944 ""
   "front/titlepage.tex" 1748100672 718 9b999d56f8c42a073332b1e814d4075e ""
+  "images/application-design-in-practice.png" 1749468607 44280 3221db0ea0fa52a2a6ace0c871466848 ""
+  "images/application-design.png" 1749464291 30056 da5be2b02dfcd4bdceb95fc66b13b3e2 ""
+  "images/component-diagram.png" 1749391605 6112 b9c437e7f70b13d841f67aec035abb40 ""
+  "images/highlighted-errors.png" 1749669883 183769 d9e060ff55bdd0f5f0904d8f085234b2 ""
   "images/image.png" 1748100669 214131 28add5fe9c765078c23fc1b5167fa31f ""
   "images/logoFii.png" 1748100668 8760 6cadb4d6bceaebdb4a807a9f540667f4 ""
-  "main.aux" 1749306010 5852 594569f7a3b562ae33c893fab6b0fa7a "pdflatex"
-  "main.bbl" 1749304064 3909 b25a1520cd9af4d896b06f76c1fcd007 "bibtex main"
-  "main.out" 1749306010 1228 42cf8fc4301bee26f2818a5073ec98aa "pdflatex"
+  "images/scenario-diagram.png" 1749391584 6356 f5aa0ba890db706b04fb9a031affcdfd ""
+  "main.aux" 1749669886 7583 6cefec8439afdb910aa4558c24bf1235 "pdflatex"
+  "main.bbl" 1749666135 4264 640d2ae872d5061e0ddca3c9d0713fa1 "bibtex main"
+  "main.out" 1749669886 921 5f36124e5d5ac19e914c15252186f5b4 "pdflatex"
   "main.tex" 1748197700 1769 be5b8972b1068ae9bc786f98d28bf648 ""
-  "main.toc" 1749306010 699 778a8652035c0b67365073db892c3b26 "pdflatex"
+  "main.toc" 1749669886 539 bbc5a89c8c7e38586f80daf060abda9e "pdflatex"
   (generated)
   "main.aux"
   "main.log"

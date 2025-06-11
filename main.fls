@@ -445,9 +445,41 @@ INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT .\chapters\chapter3.tex
 INPUT chapters\chapter3.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\scenario-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\component-diagram.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\application-design-in-practice.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
+INPUT .\images\highlighted-errors.png
 INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
@@ -467,6 +499,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
