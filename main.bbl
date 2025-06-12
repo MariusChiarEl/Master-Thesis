@@ -111,4 +111,10 @@ Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, and George Danezis.
 \newblock \url{https://doc.qt.io/qtforpython-6/}, 2025.
 \newblock Accessed: 2025-06-11.
 
+\bibitem{solidityDocs}
+{The Solidity Authors}.
+\newblock Solidity documentation.
+\newblock \url{https://docs.soliditylang.org/en/v0.8.30/}, 2025.
+\newblock Accessed: 2025-06-12.
+
 \end{thebibliography}
