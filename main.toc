@@ -5,5 +5,5 @@
 \contentsline {section}{\numberline {1.1}Slither}{6}{section.1.1}%
 \contentsline {chapter}{\numberline {2}Slither's performance analysis}{9}{chapter.2}%
 \contentsline {chapter}{\numberline {3}SmartScan}{13}{chapter.3}%
-\contentsline {chapter}{Concluzii}{18}{chapter*.4}%
-\contentsline {chapter}{Bibliography}{19}{chapter*.5}%
+\contentsline {chapter}{Concluzii}{19}{chapter*.4}%
+\contentsline {chapter}{Bibliography}{20}{chapter*.5}%

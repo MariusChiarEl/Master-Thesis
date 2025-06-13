@@ -1,5 +1,18 @@
 \begin{thebibliography}{10}
 
+\bibitem{sampleProject1}
+{Alexandra-Elena T., Ana-Maria O., Marius E.}
+\newblock Sample smart contract $\#$1.
+\newblock \url{https://github.com/MariusChiarEl/Blockchain-project}, 2023.
+\newblock Accessed: 2025-06-13.
+
+\bibitem{sampleProject3}
+{Alexandru C., Cristian-Ștefan B., Eduard T.}
+\newblock Sample smart contract $\#$3.
+\newblock \url{https://github.com/cristibctr/SmartSupplyChain},
+  \url{https://github.com/cristibctr/Tema2Blockchain}, 2023.
+\newblock Accessed: 2025-06-13.
+
 \bibitem{symbolicExecutionDef}
 Roberto Baldoni, Emilio Coppa, Daniele~Cono D'Elia, Camil Demetrescu, and Irene
   Finocchi.
@@ -23,6 +36,12 @@ Lyubka Dencheva.
 \newblock Ethereum energy consumption index.
 \newblock \url{https://digiconomist.net/ethereum-energy-consumption}, 2023.
 \newblock Accessed: 2025-05-22.
+
+\bibitem{sampleProject2}
+{Eduard-Antonio P., Iustin-Ștefănel B.}
+\newblock Sample smart contract $\#$2.
+\newblock \url{https://github.com/IustinBarbir/Blockchain}, 2023.
+\newblock Accessed: 2025-06-13.
 
 \bibitem{staticAnalysisDef}
 P\"ar Emanuelsson and Ulf Nilsson.
