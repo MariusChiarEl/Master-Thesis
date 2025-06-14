@@ -70,11 +70,23 @@ Josselin Feist, Gustavo Grieco, and Alex Groce.
 \newblock \url{https://docs.github.com/en/rest?apiVersion=2022-11-28}, 2025.
 \newblock Accessed: 2025-06-08.
 
+\bibitem{blockchain}
+Neville Grech, Yu~Kong, Aleksandar Jurisevic, L.~Brent, Bernhard Scholz, and
+  Yannis Smaragdakis.
+\newblock Finding the greedy, prodigal, and suicidal contracts at scale.
+\newblock Cryptology ePrint Archive 2017/375, International Association for
+  Cryptologic Research, 2017.
+
 \bibitem{quadriga}
 Quadriga Initiative.
 \newblock Quadriga initiative.
 \newblock \url{https://quadrigainitiative.com/indexjay.php}.
 \newblock Accessed: 2025-05-24.
+
+\bibitem{paxos}
+Leslie Lamport.
+\newblock The part-time parliament.
+\newblock 1998.
 
 \bibitem{slitherVSsmartCheck}
 Bahareh Lashkari and Petr Musilek.
@@ -87,6 +99,17 @@ Kaixuan Li et~al.
 \newblock Static application security testing (sast) tools for smart contracts:
   How far are we?
 \newblock {\em IEEE Access}, 2024.
+
+\bibitem{smartScan}
+{Marius E.}
+\newblock Smartscan.
+\newblock \url{https://github.com/MariusChiarEl/SmartScan}, 2025.
+\newblock Accessed: 2025-06-14.
+
+\bibitem{smartContracts}
+Margus~Poola Merit K\~olvart and Addi Rull.
+\newblock Smart contracts.
+\newblock 2016.
 
 \bibitem{manticore}
 Mark Mo, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin
