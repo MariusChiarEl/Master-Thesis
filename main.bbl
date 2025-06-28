@@ -1,162 +1,1066 @@
-\begin{thebibliography}{10}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{sampleProject1}
-{Alexandra-Elena T., Ana-Maria O., Marius E.}
-\newblock Sample smart contract $\#$1.
-\newblock \url{https://github.com/MariusChiarEl/Blockchain-project}, 2023.
-\newblock Accessed: 2025-06-13.
 
-\bibitem{sampleProject3}
-{Alexandru C., Cristian-Ștefan B., Eduard T.}
-\newblock Sample smart contract $\#$3.
-\newblock \url{https://github.com/cristibctr/SmartSupplyChain},
-  \url{https://github.com/cristibctr/Tema2Blockchain}, 2023.
-\newblock Accessed: 2025-06-13.
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{sampleProject2}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=adddd38cef933e9944dce6c6e5b27dd3}{%
+           family={{Alexandra-Elena T., Ana-Maria O. and Marius E.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{fullhash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{fullhashraw}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{bibnamehash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{authorbibnamehash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{authornamehash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{authorfullhash}{adddd38cef933e9944dce6c6e5b27dd3}
+      \strng{authorfullhashraw}{adddd38cef933e9944dce6c6e5b27dd3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/MariusChiarEl/Blockchain-project}}
+      \field{note}{Accessed: 2025-06-13}
+      \field{title}{Sample smart contract $\#$2}
+      \field{year}{2023}
+      \keyw{links}
+    \endentry
+    \entry{sampleProject3}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2ac5f5b73ce000f68ef3624a388bdf73}{%
+           family={{Alexandru C., Cristian-Ștefan B. and Eduard T.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{fullhash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{fullhashraw}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{bibnamehash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{authorbibnamehash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{authornamehash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{authorfullhash}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \strng{authorfullhashraw}{2ac5f5b73ce000f68ef3624a388bdf73}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/cristibctr/SmartSupplyChain}, \url{https://github.com/cristibctr/Tema2Blockchain}}
+      \field{note}{Accessed: 2025-06-13}
+      \field{title}{Sample smart contract $\#$3}
+      \field{year}{2023}
+      \keyw{links}
+    \endentry
+    \entry{symbolicExecutionDef}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=22a28bd4c4375f650b7bc5ca7e1def0b}{%
+           family={Baldoni},
+           familyi={B\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=838313855b1318a89487737723f117a9}{%
+           family={Coppa},
+           familyi={C\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=15733f28f5b2f56920a80612e2344d89}{%
+           family={D'Elia},
+           familyi={D\bibinitperiod},
+           given={Daniele\bibnamedelima Cono},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0d818aa3e968cd8759e8d31211dc6382}{%
+           family={Demetrescu},
+           familyi={D\bibinitperiod},
+           given={Camil},
+           giveni={C\bibinitperiod}}}%
+        {{hash=988d2602b6318807e4481ff5c673bbd5}{%
+           family={Finocchi},
+           familyi={F\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{e61bf9b5a1d08d8f9562b57211fe1ff7}
+      \strng{fullhash}{5ef0b297c6acf997e66cabfade4fc840}
+      \strng{fullhashraw}{5ef0b297c6acf997e66cabfade4fc840}
+      \strng{bibnamehash}{e61bf9b5a1d08d8f9562b57211fe1ff7}
+      \strng{authorbibnamehash}{e61bf9b5a1d08d8f9562b57211fe1ff7}
+      \strng{authornamehash}{e61bf9b5a1d08d8f9562b57211fe1ff7}
+      \strng{authorfullhash}{5ef0b297c6acf997e66cabfade4fc840}
+      \strng{authorfullhashraw}{5ef0b297c6acf997e66cabfade4fc840}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Comput. Surv.}
+      \field{number}{3}
+      \field{title}{A Survey of Symbolic Execution Techniques}
+      \field{volume}{51}
+      \field{year}{2018}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.1610.00502
+      \endverb
+    \endentry
+    \entry{staticAnalysisTest}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5e8ab9119ca2e94596151e89da15d38c}{%
+           family={Behan},
+           familyi={B\bibinitperiod},
+           given={Senan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{fullhash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{fullhashraw}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{bibnamehash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{authorbibnamehash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{authornamehash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{authorfullhash}{5e8ab9119ca2e94596151e89da15d38c}
+      \strng{authorfullhashraw}{5e8ab9119ca2e94596151e89da15d38c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blockchain Research and Applications}
+      \field{title}{Solidity smart contract testing with static analysis tools}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://norma.ncirl.ie/5932/1/senanbehan.pdf
+      \endverb
+      \verb{url}
+      \verb https://norma.ncirl.ie/5932/1/senanbehan.pdf
+      \endverb
+    \endentry
+    \entry{staticDynamicAnalysisComparison}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6068f095a07d61b398c2dcf29e48aac1}{%
+           family={Dencheva},
+           familyi={D\bibinitperiod},
+           given={Lyubka},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{fullhash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{fullhashraw}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{bibnamehash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{authorbibnamehash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{authornamehash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{authorfullhash}{6068f095a07d61b398c2dcf29e48aac1}
+      \strng{authorfullhashraw}{6068f095a07d61b398c2dcf29e48aac1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Comparative analysis of static application security testing (SAST) and dynamic application security testing (DAST) by using open-source web application penetration testing tools}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://norma.ncirl.ie/5956/1/lyubkadencheva.pdf
+      \endverb
+      \verb{url}
+      \verb https://norma.ncirl.ie/5956/1/lyubkadencheva.pdf
+      \endverb
+    \endentry
+    \entry{ethereumLowerElectricity}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8a15eb44dda450f9b3dff44b7fd2ccc7}{%
+           family={{Digiconomist}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{fullhash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{fullhashraw}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{bibnamehash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{authorbibnamehash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{authornamehash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{authorfullhash}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \strng{authorfullhashraw}{8a15eb44dda450f9b3dff44b7fd2ccc7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://digiconomist.net/ethereum-energy-consumption}}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Ethereum energy consumption index}
+      \field{year}{2023}
+      \keyw{links}
+    \endentry
+    \entry{smartScan}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c1c18affcaea858308c99ad1a8c3fe56}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{fullhash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{fullhashraw}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{bibnamehash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{authorbibnamehash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{authornamehash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{authorfullhash}{c1c18affcaea858308c99ad1a8c3fe56}
+      \strng{authorfullhashraw}{c1c18affcaea858308c99ad1a8c3fe56}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/MariusChiarEl/SmartScan}}
+      \field{note}{Accessed: 2025-06-14}
+      \field{title}{SmartScan}
+      \field{year}{2025}
+      \keyw{links}
+    \endentry
+    \entry{staticAnalysisDef}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bfb8b85fdfb96ef066070b3b39ca67c2}{%
+           family={Emanuelsson},
+           familyi={E\bibinitperiod},
+           given={Pär},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5bb587c3732f22bc9f9bc3283139235b}{%
+           family={Nilsson},
+           familyi={N\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{abef88227deeb359867e009f4a2b2911}
+      \strng{fullhash}{abef88227deeb359867e009f4a2b2911}
+      \strng{fullhashraw}{abef88227deeb359867e009f4a2b2911}
+      \strng{bibnamehash}{abef88227deeb359867e009f4a2b2911}
+      \strng{authorbibnamehash}{abef88227deeb359867e009f4a2b2911}
+      \strng{authornamehash}{abef88227deeb359867e009f4a2b2911}
+      \strng{authorfullhash}{abef88227deeb359867e009f4a2b2911}
+      \strng{authorfullhashraw}{abef88227deeb359867e009f4a2b2911}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tools based on static analysis can be used to find defects in programs. Tools that do shallow analyses based on pattern matching have existed since the 1980's and although they can analyze large programs they have the drawback of producing a massive amount of warnings that have to be manually analyzed to see if they are real defects or not. Recent technology advances has brought forward tools that do deeper analyses that discover more defects and produce a limited amount of false warnings. These tools can still handle large industrial applications with millions lines of code. This article surveys the underlying supporting technology of three state-of-the-art static analysis tools. The survey relies on information in research articles and manuals, and includes the types of defects checked for (such as memory management, arithmetics, security vulnerabilities), soundness, value and aliasing analyses, incrementality and IDE integration. This survey is complemented by practical experiences from evaluations at the Ericsson telecom company.}
+      \field{issn}{1571-0661}
+      \field{journaltitle}{Electronic Notes in Theoretical Computer Science}
+      \field{note}{Proceedings of the 3rd International Workshop on Systems Software Veriﬁcation (SSV 2008)}
+      \field{title}{A Comparative Study of Industrial Static Analysis Tools}
+      \field{volume}{217}
+      \field{year}{2008}
+      \field{pages}{5\bibrangedash 21}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.entcs.2008.06.039
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1571066108003824
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1571066108003824
+      \endverb
+      \keyw{Static analysis,dataflow analysis,defects,security vulnerabilities}
+    \endentry
+    \entry{reentrancy}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=038aa31a46948c601eeb088a42f1794c}{%
+           family={Fatima\bibnamedelima Samreen},
+           familyi={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Noama},
+           giveni={N\bibinitperiod}}}%
+        {{hash=85814773cd797bacaadf12ea2cca2462}{%
+           family={Alalfi},
+           familyi={A\bibinitperiod},
+           given={Manar\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{fullhash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{fullhashraw}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{bibnamehash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{authorbibnamehash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{authornamehash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{authorfullhash}{60ea8d49addc7cc61f55fbc633898dbc}
+      \strng{authorfullhashraw}{60ea8d49addc7cc61f55fbc633898dbc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE International Workshop on Blockchain Oriented Software Engineering (IWBOSE)}
+      \field{title}{Reentrancy Vulnerability Identification in Ethereum Smart Contracts}
+      \field{year}{2020}
+      \field{pages}{22\bibrangedash 29}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/IWBOSE50093.2020.9050260
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/pdf/2105.02881
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/pdf/2105.02881
+      \endverb
+      \keyw{Conferences;Smart contracts;Computer bugs;Decentralized applications;Consensus protocol;Security;Software engineering}
+    \endentry
+    \entry{slitherGitHub}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=ecc2ade2644763eec7905959277afe35}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={Josselin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b3a8378ac059607babf9689a21d1450d}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d67052ec4bf728983bc814cf0d0a5b1c}{%
+           family={Groce},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{fullhash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{fullhashraw}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{bibnamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorbibnamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authornamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorfullhash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorfullhashraw}{f80bd464a186f386df37ab67a4b4dea8}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/crytic/slither}}
+      \field{title}{Slither GitHub Repository}
+      \field{year}{2018}
+      \keyw{links}
+    \endentry
+    \entry{slither}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ecc2ade2644763eec7905959277afe35}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={Josselin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b3a8378ac059607babf9689a21d1450d}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d67052ec4bf728983bc814cf0d0a5b1c}{%
+           family={Groce},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{fullhash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{fullhashraw}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{bibnamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorbibnamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authornamehash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorfullhash}{f80bd464a186f386df37ab67a4b4dea8}
+      \strng{authorfullhashraw}{f80bd464a186f386df37ab67a4b4dea8}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)}
+      \field{title}{Slither: A Static Analysis Framework for Smart Contracts}
+      \field{year}{2019}
+      \field{pages}{8\bibrangedash 15}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/WETSEB.2019.00008
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/pdf/1908.09878
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/pdf/1908.09878
+      \endverb
+      \keyw{Tools;Smart contracts;Static analysis;Optimization;Security;Detectors;Blockchain;Smart Contract;Solidity;Static Analysis;Vulnerability Detection}
+    \endentry
+    \entry{gitHubRestAPI}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d3b7c913cd04ebfec0e9ec32cb6fd58c}{%
+           family={{GitHub}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{fullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{fullhashraw}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{bibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorbibnamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authornamehash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorfullhash}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \strng{authorfullhashraw}{d3b7c913cd04ebfec0e9ec32cb6fd58c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://docs.github.com/en/rest?apiVersion=2022-11-28}}
+      \field{note}{Accessed: 2025-06-08}
+      \field{title}{GitHub REST API documentation}
+      \field{year}{2025}
+      \keyw{links}
+    \endentry
+    \entry{quadriga}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f94bd68d00720778dda1b075b2da04c6}{%
+           family={Initiative},
+           familyi={I\bibinitperiod},
+           given={Quadriga},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{fullhash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{fullhashraw}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{bibnamehash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{authorbibnamehash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{authornamehash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{authorfullhash}{f94bd68d00720778dda1b075b2da04c6}
+      \strng{authorfullhashraw}{f94bd68d00720778dda1b075b2da04c6}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://quadrigainitiative.com/indexjay.php}}
+      \field{note}{Accessed: 2025-05-24}
+      \field{title}{Quadriga Initiative}
+      \keyw{links}
+    \endentry
+    \entry{smartContracts}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=4127631483afd18123b08f748f7986d2}{%
+           family={Kõlvart},
+           familyi={K\bibinitperiod},
+           given={Merit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=50071b5248d3939e66bd4ed87fc15b16}{%
+           family={Poola},
+           familyi={P\bibinitperiod},
+           given={Margus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=919ea295722eb748741ee4f5efd4f8b0}{%
+           family={Rull},
+           familyi={R\bibinitperiod},
+           given={Addi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7248f64c25a87d7aec416628ddfafdf6}{%
+           family={Kerikmäe},
+           familyi={K\bibinitperiod},
+           given={Tanel},
+           giveni={T\bibinitperiod}}}%
+        {{hash=919ea295722eb748741ee4f5efd4f8b0}{%
+           family={Rull},
+           familyi={R\bibinitperiod},
+           given={Addi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{fullhash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{fullhashraw}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{bibnamehash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{authorbibnamehash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{authornamehash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{authorfullhash}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{authorfullhashraw}{c8b64a6ec094126d1cf4cee34fb8f03e}
+      \strng{editorbibnamehash}{22bd95af92f9363c0c931bfb2e6a28c0}
+      \strng{editornamehash}{22bd95af92f9363c0c931bfb2e6a28c0}
+      \strng{editorfullhash}{22bd95af92f9363c0c931bfb2e6a28c0}
+      \strng{editorfullhashraw}{22bd95af92f9363c0c931bfb2e6a28c0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There has been little discussion about smart contracts in relation to contract law. The concept of smart contracting has remained incomprehensible to most lawyers, and programmers tend to perceive it as a solution that replaces traditional contracts and contract law. The aim of this chapter is to clarify that, usually, a smart contract is a programmed functionality which executes some part of the legal contract. This may be an automated payment function that performs the payment obligation by contract law. Authors do not exclude the possibility that a contract shall be fully performed by a smart contracting solution in the future, but this depends on whether such a program can fulfil all requirements of contract law necessary for the execution of a specific transaction. This chapter provides an overview of the concept of smart contracting, e-contracts, smart property and contractual requirements necessary to conclude a contract.}
+      \field{booktitle}{The Future of Law and eTechnologies}
+      \field{isbn}{978-3-319-26896-5}
+      \field{title}{Smart Contracts}
+      \field{year}{2016}
+      \field{pages}{133\bibrangedash 147}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/978-3-319-26896-5_7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/profile/Tanel-Kerikmaee/publication/314538429_The_Future_of_Law_and_Technologies/links/58c32c8445851538eb809e8c/The-Future-of-Law-and-Technologies.pdf#page=142
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/profile/Tanel-Kerikmaee/publication/314538429_The_Future_of_Law_and_Technologies/links/58c32c8445851538eb809e8c/The-Future-of-Law-and-Technologies.pdf#page=142
+      \endverb
+    \endentry
+    \entry{paxos}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent archaeological discoveries on the island of Paxos reveal that the parliament functioned despite the peripatetic propensity of its part-time legislators. The legislators maintained consistent copies of the parliamentary record, despite their frequent forays from the chamber and the forgetfulness of their messengers. The Paxon parliament's protocol provides a new way of implementing the state machine approach to the design of distributed systems.}
+      \field{issn}{0734-2071}
+      \field{journaltitle}{ACM Trans. Comput. Syst.}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{The part-time parliament}
+      \field{volume}{16}
+      \field{year}{1998}
+      \field{pages}{133\bibrangedash 169}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1145/279227.279229
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/279227.279229
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/279227.279229
+      \endverb
+      \keyw{state machines,three-phase commit,voting}
+    \endentry
+    \entry{slitherVSsmartCheck}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3f2c22dcb71a9e0088eb37dfa4837153}{%
+           family={Lashkari},
+           familyi={L\bibinitperiod},
+           given={Bahareh},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f800ab3b6f291ea9a1aa902bf0a830fb}{%
+           family={Musilek},
+           familyi={M\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{fullhash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{fullhashraw}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{bibnamehash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{authorbibnamehash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{authornamehash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{authorfullhash}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \strng{authorfullhashraw}{3d160fb9b18e38fa5d27d0a4d4a31bda}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the widespread adoption of blockchain platforms across various decentralized applications, the smart contract’s vulnerabilities are continuously growing and evolving. Consequently, a failure to optimize conventional vulnerability analysis methods results in unforeseen effects caused by overlooked classes of vulnerabilities. Current methods have difficulty dealing with multifaceted intrusions, which calls for more robust approaches. Therefore, overdependence on environment-defined parameters in the contract execution logic binds the contract to the manipulation of such parameters and is perceived as a security vulnerability. Several vulnerability analysis tools have been identified as insufficient to effectively identify certain types of vulnerability. In this paper, we perform a domain-specific evaluation of state-of-the-art vulnerability detection tools on smart contracts. A domain can be defined as a particular area of knowledge, expertise, or industry. We use a perspective specific to the area of energy contracts to draw logical and language-dependent features to advance the structural and procedural comprehension of these contracts. The goal is to reach a greater degree of abstraction and navigate the complexities of decentralized applications by determining their domains. In particular, we analyze code embedding of energy smart contracts and characterize their vulnerabilities in transactive energy systems. We conclude that energy contracts can be affected by a relatively large number of defects. It also appears that the detection accuracy of the tools varies depending on the domain. This suggests that security flaws may be domain-specific. As a result, in some domains, many vulnerabilities can be overlooked by existing analytical tools. Additionally, the overall impact of a specific vulnerability can differ significantly between domains, making its mitigation a priority subject to business logic. As a result, more effort should be directed towards the reliable and accurate detection of existing and new types of vulnerability from a domain-specific point of view.}
+      \field{issn}{2078-2489}
+      \field{journaltitle}{Information}
+      \field{number}{10}
+      \field{title}{Evaluation of Smart Contract Vulnerability Analysis Tools: A Domain-Specific Perspective}
+      \field{volume}{14}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/info14100533
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2078-2489/14/10/533
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2078-2489/14/10/533
+      \endverb
+    \endentry
+    \entry{staticAnalysisToolsComparison}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=e4777ccc088e2f9c24b425c1c5698f75}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Kaixuan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c3d59fe2c7ce4191a3b9f48dc2cdb6b1}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e7c4223b9b52448dd934b9b3780637d5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1fd24db54860bcc68afc8ed6e58bfa9a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=29da933ce0aeedae5eae91f111dea6da}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Kairan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9471ed19878cd2ace776371a2dba8dc6}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6a72ec295312a8888877bb46fd5e282a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haijun},
+           giveni={H\bibinitperiod}}}%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5423bd55bb53821d794c406cabf69035}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yixiang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{245c1c568cf707d75882ff501ce52347}
+      \strng{fullhash}{3f70959af6994d18e0c10d26f7d350fc}
+      \strng{fullhashraw}{3f70959af6994d18e0c10d26f7d350fc}
+      \strng{bibnamehash}{245c1c568cf707d75882ff501ce52347}
+      \strng{authorbibnamehash}{245c1c568cf707d75882ff501ce52347}
+      \strng{authornamehash}{245c1c568cf707d75882ff501ce52347}
+      \strng{authorfullhash}{3f70959af6994d18e0c10d26f7d350fc}
+      \strng{authorfullhashraw}{3f70959af6994d18e0c10d26f7d350fc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, the importance of smart contract security has been heightened by the increasing number of attacks against them. To address this issue, a multitude of static application security testing (SAST) tools have been proposed for detecting vulnerabilities in smart contracts. However, objectively comparing these tools to determine their effectiveness remains challenging. Existing studies often fall short due to the taxonomies and benchmarks only covering a coarse and potentially outdated set of vulnerability types, which leads to evaluations that are not entirely comprehensive and may display bias. In this paper, we fill this gap by proposing an up-to-date and fine-grained taxonomy that includes 45 unique vulnerability types for smart contracts. Taking it as a baseline, we develop an extensive benchmark that covers 40 distinct types and includes a diverse range of code characteristics, vulnerability patterns, and application scenarios. Based on them, we evaluated 8 SAST tools using this benchmark, which comprises 788 smart contract files and 10,394 vulnerabilities. Our results reveal that the existing SAST tools fail to detect around 50\% of vulnerabilities in our benchmark and suffer from high false positives, with precision not surpassing 10\%. We also discover that by combining the results of multiple tools, the false negative rate can be reduced effectively, at the expense of flagging 36.77 percentage points more functions. Nevertheless, many vulnerabilities, especially those beyond Access Control and Reentrancy vulnerabilities, remain undetected. We finally highlight the valuable insights from our study, hoping to provide guidance on tool development, enhancement, evaluation, and selection for developers, researchers, and practitioners.}
+      \field{journaltitle}{Proc. ACM Softw. Eng.}
+      \field{month}{7}
+      \field{number}{FSE}
+      \field{title}{Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?}
+      \field{volume}{1}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1145/3660772
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3660772
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3660772
+      \endverb
+      \keyw{Benchmarks,Empirical study,Static application security testing}
+    \endentry
+    \entry{manticore}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=4e560d46af1050222f93d3a1cf06ba0f}{%
+           family={Mo},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ed705e20c553884896c3e493f968f81c}{%
+           family={Manzano},
+           familyi={M\bibinitperiod},
+           given={Felipe},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ed9b937db412c0d5e42730770fd0d7cb}{%
+           family={Hennenfent},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d67052ec4bf728983bc814cf0d0a5b1c}{%
+           family={Groce},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3a8378ac059607babf9689a21d1450d}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ecc2ade2644763eec7905959277afe35}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={Josselin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b90f57c9b3a0f2a8d794d32a484c890f}{%
+           family={Brunson},
+           familyi={B\bibinitperiod},
+           given={Trent},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a5bcb256971487e88c9c80eccc2e444c}{%
+           family={Dinaburg},
+           familyi={D\bibinitperiod},
+           given={Artem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5ab5be2ae29f70711b30d42282f921c}
+      \strng{fullhash}{e68f3806482dfdaa2bac4c0801f1e109}
+      \strng{fullhashraw}{e68f3806482dfdaa2bac4c0801f1e109}
+      \strng{bibnamehash}{a5ab5be2ae29f70711b30d42282f921c}
+      \strng{authorbibnamehash}{a5ab5be2ae29f70711b30d42282f921c}
+      \strng{authornamehash}{a5ab5be2ae29f70711b30d42282f921c}
+      \strng{authorfullhash}{e68f3806482dfdaa2bac4c0801f1e109}
+      \strng{authorfullhashraw}{e68f3806482dfdaa2bac4c0801f1e109}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1907.03890}
+      \field{title}{Manticore: A user-friendly symbolic execution framework for binaries and smart contracts}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.1907.03890
+      \endverb
+    \endentry
+    \entry{sampleProject1}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=97203e060e65f5da77a755d6a86c06f5}{%
+           family={P.},
+           familyi={P\bibinitperiod},
+           given={Eduard-Antonio},
+           giveni={E\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=f845afba6696857d6fbe5c5acac70590}{%
+           family={B.},
+           familyi={B\bibinitperiod},
+           given={Iustin-Ștefănel},
+           giveni={I\bibinithyphendelim Ș\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{fullhash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{fullhashraw}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{bibnamehash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{authorbibnamehash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{authornamehash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{authorfullhash}{c4da614419c08f537d01c8bd8452ea87}
+      \strng{authorfullhashraw}{c4da614419c08f537d01c8bd8452ea87}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/IustinBarbir/Blockchain}}
+      \field{note}{Accessed: 2025-06-13}
+      \field{title}{Sample smart contract $\#$1}
+      \field{year}{2023}
+      \keyw{links}
+    \endentry
+    \entry{badRandomness}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=761438a7357071a9f6987c3bdc67ed5f}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5ce598aab333be3558faeed3e22aeb3f}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Jianting},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d61970439ce40a183587fd7536f2bf75}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Lingling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d0d676edfa53fbacbbde7200c53372ae}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a990966d4d2f59cabf1375dc9a2cecbb}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=198e54cc63a5449a28e8c1c6b8ef6bfe}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fdf4df45ac31656265c83a3cebaa9fd4}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yajin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=92cef2689935290a72d207cb175d12e4}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Qinming},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a753099b5cf3799fc4cfb54f6450fe}
+      \strng{fullhash}{99c62722ba27f18d0e9f29b430e74d21}
+      \strng{fullhashraw}{99c62722ba27f18d0e9f29b430e74d21}
+      \strng{bibnamehash}{f3a753099b5cf3799fc4cfb54f6450fe}
+      \strng{authorbibnamehash}{f3a753099b5cf3799fc4cfb54f6450fe}
+      \strng{authornamehash}{f3a753099b5cf3799fc4cfb54f6450fe}
+      \strng{authorfullhash}{99c62722ba27f18d0e9f29b430e74d21}
+      \strng{authorfullhashraw}{99c62722ba27f18d0e9f29b430e74d21}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Information Forensics and Security}
+      \field{title}{Demystifying random number in Ethereum smart contract: Taxonomy, vulnerability identification, and attack detection}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2304.12645
+      \endverb
+    \endentry
+    \entry{blockchainAttacks}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=65496f57a91f378982c8c2e9e73d58bf}{%
+           family={Saad},
+           familyi={S\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2666660034e5784b79eec25b9099339}{%
+           family={Spaulding},
+           familyi={S\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=57cabb79dc64510b78f4f435d1a13385}{%
+           family={Njilla},
+           familyi={N\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=af0e453046ba402bcc28e24e612e4834}{%
+           family={Kamhoua},
+           familyi={K\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=74e9fa92079fc67c6a9f3168df17f85d}{%
+           family={Shetty},
+           familyi={S\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=689f117e271edc9c56445767c5e8e1eb}{%
+           family={Nyang},
+           familyi={N\bibinitperiod},
+           given={DaeHun},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0f4666765e6fd90a51102a69538a2aa4}{%
+           family={Mohaisen},
+           familyi={M\bibinitperiod},
+           given={Aziz},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d82da86865077b61204d33185e227a7}
+      \strng{fullhash}{e58169e83727b5ce28e9124d993e6c6c}
+      \strng{fullhashraw}{e58169e83727b5ce28e9124d993e6c6c}
+      \strng{bibnamehash}{0d82da86865077b61204d33185e227a7}
+      \strng{authorbibnamehash}{0d82da86865077b61204d33185e227a7}
+      \strng{authornamehash}{0d82da86865077b61204d33185e227a7}
+      \strng{authorfullhash}{e58169e83727b5ce28e9124d993e6c6c}
+      \strng{authorfullhashraw}{e58169e83727b5ce28e9124d993e6c6c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
+      \field{title}{Exploring the attack surface of blockchain: A systematic overview}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.1904.03487
+      \endverb
+    \endentry
+    \entry{arithmeticAttack}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=34d606eadabbaec2cefe2eaf1c32dc98}{%
+           family={{SmartState}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{fullhash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{fullhashraw}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{bibnamehash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{authorbibnamehash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{authornamehash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{authorfullhash}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \strng{authorfullhashraw}{34d606eadabbaec2cefe2eaf1c32dc98}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://smartstate.tech/blog/understanding-overflow-and-underflow-vulnerabilities-in-smart-contracts.html}}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Understanding overflow and underflow vulnerabilities in smart contracts}
+      \field{year}{2023}
+      \keyw{links}
+    \endentry
+    \entry{replay}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=3854cedf0b62317058023fe4c6703d6a}{%
+           family={Sonnino},
+           familyi={S\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0fc5cfeb661bb76889f68bd093ab29c}{%
+           family={Bano},
+           familyi={B\bibinitperiod},
+           given={Shehar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c8b1c56b4c05f81402ba20a42230cec1}{%
+           family={Al-Bassam},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c2c6fac9d2b8a325b4e9e7ee69c17da2}{%
+           family={Danezis},
+           familyi={D\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0382991f00c39936ad08a255b1c8b66d}
+      \strng{fullhash}{68d42b3c6ffadd03e1720d06c41b337d}
+      \strng{fullhashraw}{68d42b3c6ffadd03e1720d06c41b337d}
+      \strng{bibnamehash}{0382991f00c39936ad08a255b1c8b66d}
+      \strng{authorbibnamehash}{0382991f00c39936ad08a255b1c8b66d}
+      \strng{authornamehash}{0382991f00c39936ad08a255b1c8b66d}
+      \strng{authorfullhash}{68d42b3c6ffadd03e1720d06c41b337d}
+      \strng{authorfullhashraw}{68d42b3c6ffadd03e1720d06c41b337d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{title}{Replay attacks and defenses against cross-shard consensus in sharded distributed ledgers}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.1901.11218
+      \endverb
+    \endentry
+    \entry{pySide6}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8fdd00b7aac42271736575410d6a2219}{%
+           family={{The Qt Company}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{fullhash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{fullhashraw}{8fdd00b7aac42271736575410d6a2219}
+      \strng{bibnamehash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{authorbibnamehash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{authornamehash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{authorfullhash}{8fdd00b7aac42271736575410d6a2219}
+      \strng{authorfullhashraw}{8fdd00b7aac42271736575410d6a2219}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://doc.qt.io/qtforpython-6/}}
+      \field{note}{Accessed: 2025-06-11}
+      \field{title}{PySide6 documentation}
+      \field{year}{2025}
+      \keyw{links}
+    \endentry
+    \entry{solidityDocs}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=fc571de7998933b957cd5f85b5d487a5}{%
+           family={{The Solidity Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{fullhash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{fullhashraw}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{bibnamehash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{authorbibnamehash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{authornamehash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{authorfullhash}{fc571de7998933b957cd5f85b5d487a5}
+      \strng{authorfullhashraw}{fc571de7998933b957cd5f85b5d487a5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://docs.soliditylang.org/en/v0.8.30/}}
+      \field{note}{Accessed: 2025-06-12}
+      \field{title}{Solidity documentation}
+      \field{year}{2025}
+      \keyw{links}
+    \endentry
+    \entry{blockchain}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=93f51612eb291d72b1f911d9c714e581}{%
+           family={Wüst},
+           familyi={W\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=044061dd8826f333066f6d1eed145f63}{%
+           family={Gervais},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{fullhash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{fullhashraw}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{bibnamehash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{authorbibnamehash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{authornamehash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{authorfullhash}{f0c3ddaec66bb6c9060d1709d618393e}
+      \strng{authorfullhashraw}{f0c3ddaec66bb6c9060d1709d618393e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 Crypto Valley Conference on Blockchain Technology (CVCBT)}
+      \field{title}{Do you Need a Blockchain?}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{45\bibrangedash 54}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/CVCBT.2018.00011
+      \endverb
+      \verb{urlraw}
+      \verb https://eprint.iacr.org/2017/375.pdf
+      \endverb
+      \verb{url}
+      \verb https://eprint.iacr.org/2017/375.pdf
+      \endverb
+      \keyw{Privacy;Supply chain management;Bitcoin;Observers;Blockchain;Distributed Ledger;Permissionless;Permissioned}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem{symbolicExecutionDef}
-Roberto Baldoni, Emilio Coppa, Daniele~Cono D'Elia, Camil Demetrescu, and Irene
-  Finocchi.
-\newblock A survey of symbolic execution techniques.
-\newblock {\em ACM Computing Surveys}, 2018.
-
-\bibitem{staticAnalysisTest}
-Senan Behan.
-\newblock Solidity smart contract testing with static analysis tools.
-\newblock {\em Blockchain Research and Applications}, 2022.
-
-\bibitem{dynamicAnalysis}
-Lyubka Dencheva.
-\newblock Comparative analysis of static application security testing (sast)
-  and dynamic application security testing (dast) by using open-source web
-  application penetration testing tools.
-\newblock {\em International Journal of Computer Applications}, 2022.
-
-\bibitem{ethereumLowerElectricity}
-{Digiconomist}.
-\newblock Ethereum energy consumption index.
-\newblock \url{https://digiconomist.net/ethereum-energy-consumption}, 2023.
-\newblock Accessed: 2025-05-22.
-
-\bibitem{sampleProject2}
-{Eduard-Antonio P., Iustin-Ștefănel B.}
-\newblock Sample smart contract $\#$2.
-\newblock \url{https://github.com/IustinBarbir/Blockchain}, 2023.
-\newblock Accessed: 2025-06-13.
-
-\bibitem{staticAnalysisDef}
-P\"ar Emanuelsson and Ulf Nilsson.
-\newblock A comparative study of industrial static analysis tools.
-\newblock {\em Electronic Notes in Theoretical Computer Science}, 2008.
-
-\bibitem{reentrancy}
-Noama F. and Manar H.
-\newblock Reentrancy vulnerability identification in ethereum smart contracts.
-\newblock {\em International Journal of Advanced Computer Science and
-  Applications}, 2021.
-
-\bibitem{slitherGitHub}
-Josselin Feist, Gustavo Grieco, and Alex Groce.
-\newblock Slither github repository.
-\newblock \url{https://github.com/crytic/slither}, 2018.
-
-\bibitem{slither}
-Josselin Feist, Gustavo Grieco, and Alex Groce.
-\newblock Slither: A static analysis framework for smart contracts.
-\newblock {\em arXiv preprint arXiv:1908.09834}, 2019.
-
-\bibitem{gitHubRestAPI}
-{GitHub}.
-\newblock Github rest api documentation.
-\newblock \url{https://docs.github.com/en/rest?apiVersion=2022-11-28}, 2025.
-\newblock Accessed: 2025-06-08.
-
-\bibitem{blockchain}
-Neville Grech, Yu~Kong, Aleksandar Jurisevic, L.~Brent, Bernhard Scholz, and
-  Yannis Smaragdakis.
-\newblock Finding the greedy, prodigal, and suicidal contracts at scale.
-\newblock Cryptology ePrint Archive 2017/375, International Association for
-  Cryptologic Research, 2017.
-
-\bibitem{quadriga}
-Quadriga Initiative.
-\newblock Quadriga initiative.
-\newblock \url{https://quadrigainitiative.com/indexjay.php}.
-\newblock Accessed: 2025-05-24.
-
-\bibitem{paxos}
-Leslie Lamport.
-\newblock The part-time parliament.
-\newblock 1998.
-
-\bibitem{slitherVSsmartCheck}
-Bahareh Lashkari and Petr Musilek.
-\newblock Evaluation of smart contract vulnerability analysis tools: A
-  domain-specific perspective.
-\newblock {\em IEEE Access}, 2023.
-
-\bibitem{staticAnalysisToolsComparison}
-Kaixuan Li et~al.
-\newblock Static application security testing (sast) tools for smart contracts:
-  How far are we?
-\newblock {\em IEEE Access}, 2024.
-
-\bibitem{smartScan}
-{Marius E.}
-\newblock Smartscan.
-\newblock \url{https://github.com/MariusChiarEl/SmartScan}, 2025.
-\newblock Accessed: 2025-06-14.
-
-\bibitem{smartContracts}
-Margus~Poola Merit K\~olvart and Addi Rull.
-\newblock Smart contracts.
-\newblock 2016.
-
-\bibitem{manticore}
-Mark Mo, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin
-  Feist, Trent Brunson, and Artem Dinaburg.
-\newblock Manticore: A user-friendly symbolic execution framework for binaries
-  and smart contracts.
-\newblock {\em arXiv preprint arXiv:1907.03890}, 2019.
-
-\bibitem{badRandomness}
-Peng Qian, Jianting He, Lingling Lu, Siwei Wu, Zhipeng Lu, Lei Wu, Yajin Zhou,
-  and Qinming He.
-\newblock Demystifying random number in ethereum smart contract: Taxonomy,
-  vulnerability identification, and attack detection.
-\newblock {\em IEEE Transactions on Information Forensics and Security}, 2023.
-
-\bibitem{blockchainAttacks}
-Muhammad Saad, Jeffrey Spaulding, Laurent Njilla, Charles Kamhoua, Sachin
-  Shetty, DaeHun Nyang, and Aziz Mohaisen.
-\newblock Exploring the attack surface of blockchain: A systematic overview.
-\newblock {\em IEEE Communications Surveys \& Tutorials}, 2019.
-
-\bibitem{arithmeticAttack}
-{SmartState}.
-\newblock Understanding overflow and underflow vulnerabilities in smart
-  contracts.
-\newblock
-  \url{https://smartstate.tech/blog/understanding-overflow-and-underflow-vulnerabilities-in-smart-contracts.html},
-  2023.
-\newblock Accessed: 2025-05-22.
-
-\bibitem{replay}
-Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, and George Danezis.
-\newblock Replay attacks and defenses against cross-shard consensus in sharded
-  distributed ledgers.
-\newblock In {\em Proceedings of the 2020 ACM SIGSAC Conference on Computer and
-  Communications Security}, 2020.
-
-\bibitem{pySide6}
-{The Qt Company}.
-\newblock Pyside6 documentation.
-\newblock \url{https://doc.qt.io/qtforpython-6/}, 2025.
-\newblock Accessed: 2025-06-11.
-
-\bibitem{solidityDocs}
-{The Solidity Authors}.
-\newblock Solidity documentation.
-\newblock \url{https://docs.soliditylang.org/en/v0.8.30/}, 2025.
-\newblock Accessed: 2025-06-12.
-
-\end{thebibliography}

@@ -15,6 +15,13 @@
 \usepackage{indentfirst}        % indentation
 \usepackage[nottoc]{tocbibind}  % table of contents style
 \usepackage[unicode]{hyperref}  % references from the table of contents
+\usepackage[backend=biber,style=numeric,defernumbers=true]{biblatex}
+\usepackage{csquotes}
+\usepackage{bookmark}
+
+
+\addbibresource{chapters/bibliography.bib} % bibliografia generală
+\addbibresource{chapters/usefulLinks.bib}   % bibliografia cu linkuri (ex-multibib)
 
 % includes options
 \geometry{  a4paper,            % scientific thesis standard
@@ -59,9 +66,8 @@
     
     \input{chapters/conclusions}
     % Example citation to ensure at least one \cite command
-    % \cite{example_reference}
-    \bibliographystyle{plain}
-    \bibliography{chapters/bibliography}
+    \printbibliography[notkeyword=links, title={Bibliography}]
+    \printbibliography[keyword=links, title={Useful Links}]
 \end{document}
 
 %chapter 1
@@ -84,5 +90,6 @@
 %- sistemul de rating al securitatii proiectului
 %- exemplu pentru functiile implementate
 %- exemplu de raport de securitate pe 3 proiecte asemanatoare
+%- raport de performanta al SmartScan
 %- cum poate fi folosit si unde ar excela
 %- idei de imbunatatiri

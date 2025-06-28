@@ -1,3 +1,6 @@
+% --- Bibliography ---
+
+% Not used
 @inproceedings{underOptimized,
   author = {Chen, T. and Li, X. and Luo, X. and Zhang, X.},
   title = {Under-optimized smart contracts devour your money},
@@ -7,203 +10,212 @@
   publisher = {IEEE}
 }
 
+% Updated
 @article{slither,
-  author = {Josselin Feist and Gustavo Grieco and Alex Groce},
-  title = {Slither: A Static Analysis Framework For Smart Contracts},
-  journal = {arXiv preprint arXiv:1908.09834},
-  year = {2019}
+  author={Feist, Josselin and Grieco, Gustavo and Groce, Alex},
+  booktitle={2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)}, 
+  title={Slither: A Static Analysis Framework for Smart Contracts}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={8-15},
+  keywords={Tools;Smart contracts;Static analysis;Optimization;Security;Detectors;Blockchain;Smart Contract;Solidity;Static Analysis;Vulnerability Detection},
+  url = {https://arxiv.org/pdf/1908.09878},
+  doi={10.1109/WETSEB.2019.00008}}
 }
 
+% Updated
 @article{blockchainAttacks,
-  author = {Muhammad Saad and Jeffrey Spaulding and Laurent Njilla and Charles Kamhoua and Sachin Shetty and DaeHun Nyang and Aziz Mohaisen},
-  title = {Exploring the Attack Surface of Blockchain: A Systematic Overview},
+  author = {Saad, Muhammad and Spaulding, Jeffrey and Njilla, Laurent and Kamhoua, Charles and Shetty, Sachin and Nyang, DaeHun and Mohaisen, Aziz},
+  title = {Exploring the attack surface of blockchain: A systematic overview},
   journal = {IEEE Communications Surveys \& Tutorials},
-  year = {2019}
+  year = {2019},
+  doi={https://doi.org/10.48550/arXiv.1904.03487}
 }
 
+% Updated
 @article{reentrancy,
-  author = {Noama F. and Manar H.},
-  title = {Reentrancy Vulnerability Identification in Ethereum Smart Contracts},
-  journal = {International Journal of Advanced Computer Science and Applications},
-  year = {2021}
+  author={Fatima Samreen, Noama and Alalfi, Manar H.},
+  booktitle={2020 IEEE International Workshop on Blockchain Oriented Software Engineering (IWBOSE)}, 
+  title={Reentrancy Vulnerability Identification in Ethereum Smart Contracts}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={22-29},
+  keywords={Conferences;Smart contracts;Computer bugs;Decentralized applications;Consensus protocol;Security;Software engineering},
+  url = {https://arxiv.org/pdf/2105.02881},
+  doi={10.1109/IWBOSE50093.2020.9050260}}
 }
 
+% Updated
 @inproceedings{replay,
-  author = {Alberto Sonnino and Shehar Bano and Mustafa Al-Bassam and George Danezis},
-  title = {Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers},
+  author = {Sonnino, Alberto and Bano, Shehar and Al-Bassam, Mustafa and Danezis, George},
+  title = {Replay attacks and defenses against cross-shard consensus in sharded distributed ledgers},
   booktitle = {Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security},
-  year = {2020}
+  year = {2020},
+  doi={https://doi.org/10.48550/arXiv.1901.11218}
 }
 
-@misc{quadriga,
-  author = {Quadriga Initiative},
-  title = {Quadriga Initiative},
-  howpublished = {\url{https://quadrigainitiative.com/indexjay.php}},
-  note = {Accessed: 2025-05-24}
-}
-
+% Not used
 @article{detectReentrancy,
-  author = {Ayman Alharby and Alex N. and Paul A. Watters and A. S. M. Kayes},
-  title = {A Mechanism to Detect and Prevent Ethereum Blockchain Smart Contract Reentrancy Attacks},
+  author = {Alharby, Ayman and N., Alex and Watters, Paul A. and Kayes, A. S. M.},
+  title = {A mechanism to detect and prevent Ethereum blockchain smart contract reentrancy attacks},
   journal = {IEEE Access},
   year = {2021}
 }
 
+% Updated
 @article{staticAnalysisToolsComparison,
-  author = {Kaixuan Li and others},
-  title = {Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?},
-  journal = {IEEE Access},
-  year = {2024}
+author = {Li, Kaixuan and Xue, Yue and Chen, Sen and Liu, Han and Sun, Kairan and Hu, Ming and Wang, Haijun and Liu, Yang and Chen, Yixiang},
+title = {Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?},
+year = {2024},
+issue_date = {July 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {1},
+number = {FSE},
+url = {https://doi.org/10.1145/3660772},
+doi = {10.1145/3660772},
+abstract = {In recent years, the importance of smart contract security has been heightened by the increasing number of attacks against them. To address this issue, a multitude of static application security testing (SAST) tools have been proposed for detecting vulnerabilities in smart contracts. However, objectively comparing these tools to determine their effectiveness remains challenging. Existing studies often fall short due to the taxonomies and benchmarks only covering a coarse and potentially outdated set of vulnerability types, which leads to evaluations that are not entirely comprehensive and may display bias. In this paper, we fill this gap by proposing an up-to-date and fine-grained taxonomy that includes 45 unique vulnerability types for smart contracts. Taking it as a baseline, we develop an extensive benchmark that covers 40 distinct types and includes a diverse range of code characteristics, vulnerability patterns, and application scenarios. Based on them, we evaluated 8 SAST tools using this benchmark, which comprises 788 smart contract files and 10,394 vulnerabilities. Our results reveal that the existing SAST tools fail to detect around 50\% of vulnerabilities in our benchmark and suffer from high false positives, with precision not surpassing 10\%. We also discover that by combining the results of multiple tools, the false negative rate can be reduced effectively, at the expense of flagging 36.77 percentage points more functions. Nevertheless, many vulnerabilities, especially those beyond Access Control and Reentrancy vulnerabilities, remain undetected. We finally highlight the valuable insights from our study, hoping to provide guidance on tool development, enhancement, evaluation, and selection for developers, researchers, and practitioners.},
+journal = {Proc. ACM Softw. Eng.},
+month = jul,
+articleno = {65},
+numpages = {24},
+keywords = {Benchmarks, Empirical study, Static application security testing}
 }
 
-@article{staticAnalysisDef,
-  author = {P\"ar Emanuelsson and Ulf Nilsson},
-  title = {A Comparative Study of Industrial Static Analysis Tools},
-  journal = {Electronic Notes in Theoretical Computer Science},
-  year = {2008}
+% Updated
+@article{staticAnalysisDef, 
+title = {A Comparative Study of Industrial Static Analysis Tools},
+journal = {Electronic Notes in Theoretical Computer Science},
+volume = {217},
+pages = {5-21},
+year = {2008},
+note = {Proceedings of the 3rd International Workshop on Systems Software Veriﬁcation (SSV 2008)},
+issn = {1571-0661},
+doi = {https://doi.org/10.1016/j.entcs.2008.06.039},
+url = {https://www.sciencedirect.com/science/article/pii/S1571066108003824},
+author = {Pär Emanuelsson and Ulf Nilsson},
+keywords = {Static analysis, dataflow analysis, defects, security vulnerabilities},
+abstract = {Tools based on static analysis can be used to find defects in programs. Tools that do shallow analyses based on pattern matching have existed since the 1980's and although they can analyze large programs they have the drawback of producing a massive amount of warnings that have to be manually analyzed to see if they are real defects or not. Recent technology advances has brought forward tools that do deeper analyses that discover more defects and produce a limited amount of false warnings. These tools can still handle large industrial applications with millions lines of code. This article surveys the underlying supporting technology of three state-of-the-art static analysis tools. The survey relies on information in research articles and manuals, and includes the types of defects checked for (such as memory management, arithmetics, security vulnerabilities), soundness, value and aliasing analyses, incrementality and IDE integration. This survey is complemented by practical experiences from evaluations at the Ericsson telecom company.}
 }
 
+% Updated
 @article{symbolicExecutionDef,
-  author = {Baldoni, Roberto and Coppa, Emilio and D'Elia, Daniele Cono and Demetrescu, Camil and Finocchi, Irene},
-  title = {A Survey of Symbolic Execution Techniques},
-  journal = {ACM Computing Surveys},
-  year = {2018}
+  author    = {Baldoni, Roberto and Coppa, Emilio and D'Elia, Daniele Cono and Demetrescu, Camil and Finocchi, Irene},
+  title     = {A Survey of Symbolic Execution Techniques},
+  journal   = {ACM Comput. Surv.},
+  volume    = {51},
+  number = {3},
+  articleno = {50},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  year = {2018},
+  doi = {https://doi.org/10.48550/arXiv.1610.00502}
 }
 
+% Updated
 @article{manticore,
-  author = {Mark Mo and Felipe Manzano and Eric Hennenfent and Alex Groce and Gustavo Grieco and Josselin Feist and Trent Brunson and Artem Dinaburg},
-  title = {Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts},
+  author = {Mo, Mark and Manzano, Felipe and Hennenfent, Eric and Groce, Alex and Grieco, Gustavo and Feist, Josselin and Brunson, Trent and Dinaburg, Artem},
+  title = {Manticore: A user-friendly symbolic execution framework for binaries and smart contracts},
   journal = {arXiv preprint arXiv:1907.03890},
-  year = {2019}
+  year = {2019},
+  doi = {https://doi.org/10.48550/arXiv.1907.03890}
 }
 
-@article{dynamicAnalysis,
-  author = {Lyubka Dencheva},
-  title = {Comparative analysis of Static application security testing (SAST) and Dynamic application security testing (DAST) by using open-source web application penetration testing tools},
+% Updated
+@article{staticDynamicAnalysisComparison,
+  author = {Dencheva, Lyubka},
+  title = {Comparative analysis of static application security testing (SAST) and dynamic application security testing (DAST) by using open-source web application penetration testing tools},
   journal = {International Journal of Computer Applications},
-  year = {2022}
+  year = {2022},
+  url = {https://norma.ncirl.ie/5956/1/lyubkadencheva.pdf}
 }
 
-@misc{slitherGitHub,
-  author = {Josselin Feist and Gustavo Grieco and Alex Groce},
-  title = {Slither GitHub Repository},
-  howpublished = {\url{https://github.com/crytic/slither}},
-  year = {2018}
-}
-
+% Updated
 @article{staticAnalysisTest,
-  author = {Senan Behan},
-  title = {Solidity Smart Contract Testing with Static Analysis Tools},
+  author = {Behan, Senan},
+  title = {Solidity smart contract testing with static analysis tools},
   journal = {Blockchain Research and Applications},
-  year = {2022}
+  year = {2022},
+  url = {https://norma.ncirl.ie/5932/1/senanbehan.pdf}
 }
 
+% Updated
 @article{slitherVSsmartCheck,
-  author = {Bahareh Lashkari and Petr Musilek},
-  title = {Evaluation of Smart Contract Vulnerability Analysis Tools: A Domain-Specific Perspective},
-  journal = {IEEE Access},
-  year = {2023}
+AUTHOR = {Lashkari, Bahareh and Musilek, Petr},
+TITLE = {Evaluation of Smart Contract Vulnerability Analysis Tools: A Domain-Specific Perspective},
+JOURNAL = {Information},
+VOLUME = {14},
+YEAR = {2023},
+NUMBER = {10},
+ARTICLE-NUMBER = {533},
+URL = {https://www.mdpi.com/2078-2489/14/10/533},
+ISSN = {2078-2489},
+ABSTRACT = {With the widespread adoption of blockchain platforms across various decentralized applications, the smart contract’s vulnerabilities are continuously growing and evolving. Consequently, a failure to optimize conventional vulnerability analysis methods results in unforeseen effects caused by overlooked classes of vulnerabilities. Current methods have difficulty dealing with multifaceted intrusions, which calls for more robust approaches. Therefore, overdependence on environment-defined parameters in the contract execution logic binds the contract to the manipulation of such parameters and is perceived as a security vulnerability. Several vulnerability analysis tools have been identified as insufficient to effectively identify certain types of vulnerability. In this paper, we perform a domain-specific evaluation of state-of-the-art vulnerability detection tools on smart contracts. A domain can be defined as a particular area of knowledge, expertise, or industry. We use a perspective specific to the area of energy contracts to draw logical and language-dependent features to advance the structural and procedural comprehension of these contracts. The goal is to reach a greater degree of abstraction and navigate the complexities of decentralized applications by determining their domains. In particular, we analyze code embedding of energy smart contracts and characterize their vulnerabilities in transactive energy systems. We conclude that energy contracts can be affected by a relatively large number of defects. It also appears that the detection accuracy of the tools varies depending on the domain. This suggests that security flaws may be domain-specific. As a result, in some domains, many vulnerabilities can be overlooked by existing analytical tools. Additionally, the overall impact of a specific vulnerability can differ significantly between domains, making its mitigation a priority subject to business logic. As a result, more effort should be directed towards the reliable and accurate detection of existing and new types of vulnerability from a domain-specific point of view.},
+DOI = {10.3390/info14100533}
 }
 
+% Updated
 @article{badRandomness,
-  author = {Peng Qian and Jianting He and Lingling Lu and Siwei Wu and Zhipeng Lu and Lei Wu and Yajin Zhou and Qinming He},
-  title = {Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection},
+  author = {Qian, Peng and He, Jianting and Lu, Lingling and Wu, Siwei and Lu, Zhipeng and Wu, Lei and Zhou, Yajin and He, Qinming},
+  title = {Demystifying random number in Ethereum smart contract: Taxonomy, vulnerability identification, and attack detection},
   journal = {IEEE Transactions on Information Forensics and Security},
-  year = {2023}
+  year = {2023},
+  doi = {https://doi.org/10.48550/arXiv.2304.12645}
 }
 
+% Updated
 @article{paxos,
-  author = {Leslie Lamport},
-  title = {The Part-Time Parliament},
-  journal = {},
-  year = {1998}
+  author = {Lamport, Leslie},
+author = {Lamport, Leslie},
+title = {The part-time parliament},
+year = {1998},
+issue_date = {May 1998},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {16},
+number = {2},
+issn = {0734-2071},
+url = {https://doi.org/10.1145/279227.279229},
+doi = {10.1145/279227.279229},
+abstract = {Recent archaeological discoveries on the island of Paxos reveal that the parliament functioned despite the peripatetic propensity of its part-time legislators. The legislators maintained consistent copies of the parliamentary record, despite their frequent forays from the chamber and the forgetfulness of their messengers. The Paxon parliament's protocol provides a new way of implementing the state machine approach to the design of distributed systems.},
+journal = {ACM Trans. Comput. Syst.},
+month = may,
+pages = {133–169},
+numpages = {37},
+keywords = {state machines, three-phase commit, voting}
 }
 
+% Updated
 @article{smartContracts,
-  author = {Merit K\~olvart, Margus Poola and Addi Rull},
-  title = {Smart Contracts},
-  journal = {},
-  year = {2016}
+author="K{\~o}lvart, Merit
+and Poola, Margus
+and Rull, Addi",
+editor="Kerikm{\"a}e, Tanel
+and Rull, Addi",
+title="Smart Contracts",
+bookTitle="The Future of Law and eTechnologies",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="133--147",
+abstract="There has been little discussion about smart contracts in relation to contract law. The concept of smart contracting has remained incomprehensible to most lawyers, and programmers tend to perceive it as a solution that replaces traditional contracts and contract law. The aim of this chapter is to clarify that, usually, a smart contract is a programmed functionality which executes some part of the legal contract. This may be an automated payment function that performs the payment obligation by contract law. Authors do not exclude the possibility that a contract shall be fully performed by a smart contracting solution in the future, but this depends on whether such a program can fulfil all requirements of contract law necessary for the execution of a specific transaction. This chapter provides an overview of the concept of smart contracting, e-contracts, smart property and contractual requirements necessary to conclude a contract.",
+isbn="978-3-319-26896-5",
+doi="10.1007/978-3-319-26896-5_7",
+url="https://www.researchgate.net/profile/Tanel-Kerikmaee/publication/314538429_The_Future_of_Law_and_Technologies/links/58c32c8445851538eb809e8c/The-Future-of-Law-and-Technologies.pdf#page=142"
 }
 
-@misc{arithmeticAttack,
-  author       = {{SmartState}},
-  title        = {Understanding Overflow and Underflow Vulnerabilities in Smart Contracts},
-  year         = {2023},
-  howpublished = {\url{https://smartstate.tech/blog/understanding-overflow-and-underflow-vulnerabilities-in-smart-contracts.html}},
-  note         = {Accessed: 2025-05-22}
-}
-
-@misc{ethereumLowerElectricity,
-  author       = {{Digiconomist}},
-  title        = {Ethereum Energy Consumption Index},
-  year         = {2023},
-  howpublished = {\url{https://digiconomist.net/ethereum-energy-consumption}},
-  note         = {Accessed: 2025-05-22}
-}
-
-@misc{gitHubRestAPI,
-  author       = {{GitHub}},
-  title        = {GitHub REST API documentation},
-  year         = {2025},
-  howpublished = {\url{https://docs.github.com/en/rest?apiVersion=2022-11-28}},
-  note         = {Accessed: 2025-06-08}
-}
-
-@misc{pySide6,
-  author       = {{The Qt Company}},
-  title        = {PySide6 documentation},
-  year         = {2025},
-  howpublished = {\url{https://doc.qt.io/qtforpython-6/}},
-  note         = {Accessed: 2025-06-11}
-}
-
-@misc{solidityDocs,
-  author       = {{The Solidity Authors}},
-  title        = {Solidity documentation},
-  year         = {2025},
-  howpublished = {\url{https://docs.soliditylang.org/en/v0.8.30/}},
-  note         = {Accessed: 2025-06-12}
-}
-
-@misc{sampleProject1,
-  author       = {{Alexandra-Elena T., Ana-Maria O., Marius E.}},
-  title        = {Sample smart contract $\#$1},
-  year         = {2023},
-  howpublished = {\url{https://github.com/MariusChiarEl/Blockchain-project}},
-  note         = {Accessed: 2025-06-13}
-}
-
-@misc{sampleProject2,
-  author       = {{Eduard-Antonio P., Iustin-Ștefănel B.}},
-  title        = {Sample smart contract $\#$2},
-  year         = {2023},
-  howpublished = {\url{https://github.com/IustinBarbir/Blockchain}},
-  note         = {Accessed: 2025-06-13}
-}
-
-@misc{sampleProject3,
-  author       = {{Alexandru C., Cristian-Ștefan B., Eduard T.}},
-  title        = {Sample smart contract $\#$3},
-  year         = {2023},
-  howpublished = {\url{https://github.com/cristibctr/SmartSupplyChain}, \url{https://github.com/cristibctr/Tema2Blockchain}},
-  note         = {Accessed: 2025-06-13}
-}
-
-@misc{smartScan,
-  author       = {{Marius E.}},
-  title        = {SmartScan},
-  year         = {2025},
-  howpublished = {\url{https://github.com/MariusChiarEl/SmartScan}},
-  note         = {Accessed: 2025-06-14}
-}
-
+% Updated
 @techreport{blockchain,
-  author       = {Grech, Neville and Kong, Yu and Jurisevic, Aleksandar and Brent, L. and Scholz, Bernhard and Smaragdakis, Yannis},
-  title        = {Finding The Greedy, Prodigal, and Suicidal Contracts at Scale},
-  year         = {2017},
-  institution  = {International Association for Cryptologic Research},
-  number       = {2017/375},
-  url          = {https://eprint.iacr.org/2017/375.pdf},
-  type         = {Cryptology ePrint Archive},
+  author={Wüst, Karl and Gervais, Arthur},
+  booktitle={2018 Crypto Valley Conference on Blockchain Technology (CVCBT)}, 
+  title={Do you Need a Blockchain?}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={45-54},
+  keywords={Privacy;Supply chain management;Bitcoin;Observers;Blockchain;Distributed Ledger;Permissionless;Permissioned},
+  url = {https://eprint.iacr.org/2017/375.pdf},
+  doi={10.1109/CVCBT.2018.00011}}
 }

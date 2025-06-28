@@ -1,51 +1,21 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
-Reallocating 'name_of_file' (item size: 1) to 22 items.
-Database file #1: chapters/bibliography.bib
-Warning--empty journal in paxos
-Warning--empty journal in smartContracts
-You've used 26 entries,
-            2118 wiz_defined-function locations,
-            635 strings with 8538 characters,
-and the built_in function-call counts, 6823 in all, are:
-= -- 633
-> -- 400
-< -- 1
-+ -- 163
-- -- 134
-* -- 360
-:= -- 1245
-add.period$ -- 88
-call.type$ -- 26
-change.case$ -- 144
-chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 230
-empty$ -- 507
-format.name$ -- 134
-if$ -- 1380
-int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 14
-newline$ -- 143
-num.names$ -- 52
-pop$ -- 197
-preamble$ -- 1
-purify$ -- 118
-quote$ -- 0
-skip$ -- 174
-stack$ -- 0
-substring$ -- 133
-swap$ -- 25
-text.length$ -- 1
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 104
-warning$ -- 2
-while$ -- 52
-width$ -- 28
-write$ -- 280
-(There were 2 warnings)
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[134] biber-MSWIN64:340> INFO - === 
+[177] Biber.pm:420> INFO - Reading 'main.bcf'
+[327] Biber.pm:994> INFO - Found 26 citekeys in bib section 0
+[344] Biber.pm:4463> INFO - Processing section 0
+[359] Biber.pm:4654> INFO - Looking for bibtex file 'chapters/bibliography.bib' for section 0
+[427] bibtex.pm:1713> INFO - LaTeX decoding ...
+[469] bibtex.pm:1519> INFO - Found BibTeX data source 'chapters/bibliography.bib'
+[626] Biber.pm:4654> INFO - Looking for bibtex file 'chapters/usefulLinks.bib' for section 0
+[694] bibtex.pm:1713> INFO - LaTeX decoding ...
+[721] bibtex.pm:1519> INFO - Found BibTeX data source 'chapters/usefulLinks.bib'
+[812] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[812] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[812] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[812] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[846] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[866] bbl.pm:779> INFO - Output to main.bbl
+[866] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Marius\AppData\Local\Temp\biber_tmp_jy7f\f4d088b3f9f145b5c3058da33afd57d4_30632.utf8, line 28, warning: 1 characters of junk seen at toplevel
+[866] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Marius\AppData\Local\Temp\biber_tmp_jy7f\f4d088b3f9f145b5c3058da33afd57d4_30632.utf8, line 51, warning: 1 characters of junk seen at toplevel
+[866] Biber.pm:133> INFO - WARNINGS: 2

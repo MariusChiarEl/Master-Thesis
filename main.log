@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.24)  14 JUN 2025 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.24)  28 JUN 2025 22:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Marius/Desktop/Disertatie/Thesis/main.tex
-(c:/Users/Marius/Desktop/Disertatie/Thesis/main.tex
+**c:/Users/Marius/Desktop/Disertatie/Thesis/Master-Thesis/main.tex
+(c:/Users/Marius/Desktop/Disertatie/Thesis/Master-Thesis/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
 (C:\Program Files\MiKTeX\tex/latex/base\report.cls
@@ -538,13 +538,264 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip56
+) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count336
+ (C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 34.
+\c@tabx@nest=\count337
+\c@listtotal=\count338
+\c@listcount=\count339
+\c@liststart=\count340
+\c@liststop=\count341
+\c@citecount=\count342
+\c@citetotal=\count343
+\c@multicitecount=\count344
+\c@multicitetotal=\count345
+\c@instcount=\count346
+\c@maxnames=\count347
+\c@minnames=\count348
+\c@maxitems=\count349
+\c@minitems=\count350
+\c@citecounter=\count351
+\c@maxcitecounter=\count352
+\c@savedcitecounter=\count353
+\c@uniquelist=\count354
+\c@uniquename=\count355
+\c@refsection=\count356
+\c@refsegment=\count357
+\c@maxextratitle=\count358
+\c@maxextratitleyear=\count359
+\c@maxextraname=\count360
+\c@maxextradate=\count361
+\c@maxextraalpha=\count362
+\c@abbrvpenalty=\count363
+\c@highnamepenalty=\count364
+\c@lownamepenalty=\count365
+\c@maxparens=\count366
+\c@parenlevel=\count367
+\blx@tempcnta=\count368
+\blx@tempcntb=\count369
+\blx@tempcntc=\count370
+\c@blx@maxsection=\count371
+\blx@maxsegment@0=\count372
+\blx@notetype=\count373
+\blx@parenlevel@text=\count374
+\blx@parenlevel@foot=\count375
+\blx@sectionciteorder@0=\count376
+\blx@sectionciteorderinternal@0=\count377
+\blx@entrysetcounter=\count378
+\blx@biblioinstance=\count379
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read5
+\blx@bcfout=\write5
+\blx@langwohyphens=\language80
+\c@mincomprange=\count380
+\c@maxcomprange=\count381
+\c@mincompwidth=\count382
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count383
+\c@savedafterword=\count384
+\c@annotator=\count385
+\c@savedannotator=\count386
+\c@author=\count387
+\c@savedauthor=\count388
+\c@bookauthor=\count389
+\c@savedbookauthor=\count390
+\c@commentator=\count391
+\c@savedcommentator=\count392
+\c@editor=\count393
+\c@savededitor=\count394
+\c@editora=\count395
+\c@savededitora=\count396
+\c@editorb=\count397
+\c@savededitorb=\count398
+\c@editorc=\count399
+\c@savededitorc=\count400
+\c@foreword=\count401
+\c@savedforeword=\count402
+\c@holder=\count403
+\c@savedholder=\count404
+\c@introduction=\count405
+\c@savedintroduction=\count406
+\c@namea=\count407
+\c@savednamea=\count408
+\c@nameb=\count409
+\c@savednameb=\count410
+\c@namec=\count411
+\c@savednamec=\count412
+\c@translator=\count413
+\c@savedtranslator=\count414
+\c@shortauthor=\count415
+\c@savedshortauthor=\count416
+\c@shorteditor=\count417
+\c@savedshorteditor=\count418
+\c@labelname=\count419
+\c@savedlabelname=\count420
+\c@institution=\count421
+\c@savedinstitution=\count422
+\c@lista=\count423
+\c@savedlista=\count424
+\c@listb=\count425
+\c@savedlistb=\count426
+\c@listc=\count427
+\c@savedlistc=\count428
+\c@listd=\count429
+\c@savedlistd=\count430
+\c@liste=\count431
+\c@savedliste=\count432
+\c@listf=\count433
+\c@savedlistf=\count434
+\c@location=\count435
+\c@savedlocation=\count436
+\c@organization=\count437
+\c@savedorganization=\count438
+\c@origlocation=\count439
+\c@savedoriglocation=\count440
+\c@origpublisher=\count441
+\c@savedorigpublisher=\count442
+\c@publisher=\count443
+\c@savedpublisher=\count444
+\c@language=\count445
+\c@savedlanguage=\count446
+\c@origlanguage=\count447
+\c@savedoriglanguage=\count448
+\c@pageref=\count449
+\c@savedpageref=\count450
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+\locallabelnumberwidth=\skip71
+\locallabelalphawidth=\skip72
+\localshorthandwidth=\skip73
+\localshortjournalwidth=\skip74
+\localshortserieswidth=\skip75
+\localshorttitlewidth=\skip76
+\localshortauthorwidth=\skip77
+\localshorteditorwidth=\skip78
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count451
+\c@textcitetotal=\count452
+\c@textcitemaxnames=\count453
+\c@biburlbigbreakpenalty=\count454
+\c@biburlbreakpenalty=\count455
+\c@biburlnumpenalty=\count456
+\c@biburlucpenalty=\count457
+\c@biburllcpenalty=\count458
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count459
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count460
+\c@bbx:relatedtotal=\count461
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-04-14 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count462
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2025-04-14 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)) (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count463
+\csq@gtype=\count464
+\csq@glevel=\count465
+\csq@qlevel=\count466
+\csq@maxlvl=\count467
+\csq@tshold=\count468
+\csq@ltx@everypar=\toks40
+ (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+ (C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
+\BKM@id=\count469
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 41.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count336
 ) (main.aux
 
 LaTeX Warning: Label `tab:my-table' multiply defined.
@@ -570,40 +821,43 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 LaTeX Warning: Label `tab:my-table' multiply defined.
 
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
+\scratchcounter=\count470
 \scratchdimen=\dimen279
 \scratchbox=\box89
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count340
+\nofMPsegments=\count471
+\nofMParguments=\count472
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count473
 \MPscratchDim=\dimen280
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks41
+\MPnumerator=\count474
+\makeMPintoPDFobject=\count475
+\everyMPtoPDFconversion=\toks42
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -644,13 +898,24 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 34.
-(main.out) (main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+Package hyperref Info: Link coloring OFF on input line 41.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `main.bcf'.
 
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
  (front/macros.tex) (front/cover.tex
-<images/logoFii.png, id=38, 193.47281pt x 188.95593pt>
+<images/logoFii.png, id=6, 193.47281pt x 188.95593pt>
 File: images/logoFii.png Graphic file (type png)
 <use images/logoFii.png>
 Package pdftex.def Info: images/logoFii.png  used on input line 13.
@@ -672,14 +937,14 @@ l.35 \end{titlepage}
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43     \input{front/declaration1}
+l.50     \input{front/declaration1}
                                     [1] (front/declaration2.tex)
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44     \input{front/declaration2}
+l.51     \input{front/declaration2}
                                     [2] (main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -705,7 +970,7 @@ l.3 \end{abstract}
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55 
+l.62 
       [1
 
 ] (chapters/chapter1.tex
@@ -730,7 +995,9 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 40.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+)
+
+[5] (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowinset=\dimen281
 \pgfarrowlength=\dimen282
@@ -738,21 +1005,21 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowlinewidth=\dimen284
 )
 
-[5]
-
 [6]
 
 [7]
-<images/image.png, id=158, 2322.6775pt x 744.7825pt>
+
+[8]
+<images/image.png, id=136, 2322.6775pt x 744.7825pt>
 File: images/image.png Graphic file (type png)
 <use images/image.png>
-Package pdftex.def Info: images/image.png  used on input line 144.
+Package pdftex.def Info: images/image.png  used on input line 155.
 (pdftex.def)             Requested size: 455.24411pt x 145.97636pt.
-) (chapters/chapter2.tex
 
-[8 <./images/image.png (PNG copy)>]
 
-[9]
+[9 <./images/image.png (PNG copy)>]) (chapters/chapter2.tex
+
+[10]
 Chapter 2.
 
 Overfull \hbox (34.22444pt too wide) in paragraph at lines 6--18
@@ -761,101 +1028,103 @@ Overfull \hbox (34.22444pt too wide) in paragraph at lines 6--18
 
 
 
-[10
+[11
 
 ]
 
-[11]
+[12]
 
-[12]) (chapters/chapter3.tex
+[13]) (chapters/chapter3.tex
 
-[13]
+[14]
 Chapter 3.
-<images/scenario-diagram.png, id=208, 520.19344pt x 76.03406pt>
+<images/scenario-diagram.png, id=186, 520.19344pt x 76.03406pt>
 File: images/scenario-diagram.png Graphic file (type png)
 <use images/scenario-diagram.png>
 Package pdftex.def Info: images/scenario-diagram.png  used on input line 9.
 (pdftex.def)             Requested size: 455.24411pt x 66.54121pt.
 
 
-[14
+[15
 
  <./images/scenario-diagram.png>]
-<images/component-diagram.png, id=217, 241.65282pt x 211.54031pt>
+<images/component-diagram.png, id=195, 241.65282pt x 211.54031pt>
 File: images/component-diagram.png Graphic file (type png)
 <use images/component-diagram.png>
 Package pdftex.def Info: images/component-diagram.png  used on input line 18.
 (pdftex.def)             Requested size: 227.62206pt x 199.2643pt.
-<images/application-design.png, id=219, 854.19125pt x 611.28375pt>
+<images/application-design.png, id=197, 854.19125pt x 611.28375pt>
 File: images/application-design.png Graphic file (type png)
 <use images/application-design.png>
 Package pdftex.def Info: images/application-design.png  used on input line 27.
 (pdftex.def)             Requested size: 364.19667pt x 260.62695pt.
 
 
-[15 <./images/component-diagram.png> <./images/application-design.png>]
+[16 <./images/component-diagram.png> <./images/application-design.png>]
 
-[16]
-<images/application-design-in-practice.png, id=235, 897.3525pt x 618.81187pt>
+[17]
+<images/application-design-in-practice.png, id=213, 897.3525pt x 618.81187pt>
 File: images/application-design-in-practice.png Graphic file (type png)
 <use images/application-design-in-practice.png>
 Package pdftex.def Info: images/application-design-in-practice.png  used on input line 59.
 (pdftex.def)             Requested size: 455.24411pt x 313.92804pt.
 
 
-[17 <./images/application-design-in-practice.png>]
-<images/highlighted-errors.png, id=242, 1263.97218pt x 627.09282pt>
+[18 <./images/application-design-in-practice.png>]
+<images/highlighted-errors.png, id=221, 1263.97218pt x 627.09282pt>
 File: images/highlighted-errors.png Graphic file (type png)
 <use images/highlighted-errors.png>
 Package pdftex.def Info: images/highlighted-errors.png  used on input line 68.
 (pdftex.def)             Requested size: 455.24411pt x 225.85849pt.
 
 
-[18 <./images/highlighted-errors.png>]) (chapters/conclusions.tex
-
-[19]) (main.bbl
-
-[20
-
-]
-Underfull \hbox (badness 6741) in paragraph at lines 10--15
-[]\OT1/ppl/m/n/12 Alexandru C., Cristian-[]tefan B., Ed-uard T.  Sam-ple smart con-tract
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[21
+[19 <./images/highlighted-errors.png>]
+
+[20]) (chapters/conclusions.tex
+
+[21])
+
+[22
 
 ]
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 135--142
-[]\OT1/ppl/m/n/12 SmartState.  Un-der-stand-ing over-flow and un-der-flow vul-ner-a-bil-
+Overfull \hbox (21.7891pt too wide) in paragraph at lines 69--69
+[]\OT1/ppl/m/n/12 Senan Be-han. \  So-lid-ity smart con-tract test-ing with static anal-y-sis tools". In: \OT1/ppl/m/it/12 Blockchain
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--142
-\OT1/ppl/m/n/12 i-ties in smart con-tracts.  []$\OT1/pcr/m/n/12 https : / / smartstate . tech / blog /
+Overfull \hbox (28.41231pt too wide) in paragraph at lines 69--69
+\OT1/ppl/m/it/12 Ap-pli-ca-tions \OT1/ppl/m/n/12 (2022). \OT1/ppl/m/sc/12 url\OT1/ppl/m/n/12 : []$\OT1/pcr/m/n/12 https : / / norma . ncirl . ie / 5956 / 1 / lyubkadencheva .
  []
 
 
-Overfull \hbox (92.52252pt too wide) in paragraph at lines 135--142
-\OT1/pcr/m/n/12 understanding-[]overflow-[]and-[]underflow-[]vulnerabilities-[]in-[]smart-[]contracts .
+
+[23
+
+]
+
+[24]
+
+[25]
+Overfull \hbox (7.40498pt too wide) in paragraph at lines 70--70
+[]\OT1/ppl/m/n/12 Alexandra-Elena T., Ana-Maria O. and Mar-ius E. \OT1/ppl/m/it/12 Sam-ple smart con-tract $\OT1/cmr/m/n/12 #$\OT1/ppl/m/it/12 2\OT1/ppl/m/n/12 . []$\OT1/pcr/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 6859) in paragraph at lines 151--155
-[]\OT1/ppl/m/n/12 The Qt Com-pany.  Py-side6 doc-u-men-ta-tion.  []$\OT1/pcr/m/n/12 https : / / doc . qt . io /
+Overfull \hbox (7.25212pt too wide) in paragraph at lines 70--70
+[]\OT1/ppl/m/n/12 The Qt Com-pany. \OT1/ppl/m/it/12 Py-Side6 doc-u-men-ta-tion\OT1/ppl/m/n/12 . []$\OT1/pcr/m/n/12 https : / / doc . qt . io / qtforpython -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
-[]\OT1/ppl/m/n/12 The So-lid-ity Au-thors.  So-lid-ity doc-u-men-ta-tion.  []$\OT1/pcr/m/n/12 https : / / docs .
- []
 
-)
+[26
 
-[23] (main.aux)
+]
+
+[27] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -864,21 +1133,22 @@ L3 programming layer <2025-04-14>
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5F36124E5D5AC19E914C15252186F5B4;921.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 25100 strings out of 469941
- 491721 string characters out of 5479494
- 899224 words of memory out of 5000000
- 51353 multiletter control sequences out of 15000+600000
- 651929 words of font info for 102 fonts, out of 8000000 for 9000
+ 33354 strings out of 469941
+ 659970 string characters out of 5479494
+ 1488523 words of memory out of 5000000
+ 59538 multiletter control sequences out of 15000+600000
+ 653061 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,107p,1428b,1300s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,2282b,1805s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (30 pages, 666417 bytes).
+Output written on main.pdf (34 pages, 687174 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 

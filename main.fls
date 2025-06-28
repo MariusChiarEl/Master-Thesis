@@ -1,6 +1,6 @@
-PWD c:\Users\Marius\Desktop\Disertatie\Thesis
+PWD c:\Users\Marius\Desktop\Disertatie\Thesis\Master-Thesis
 INPUT C:\Users\Marius\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Marius\Desktop\Disertatie\Thesis\main.tex
+INPUT c:\Users\Marius\Desktop\Disertatie\Thesis\Master-Thesis\main.tex
 OUTPUT main.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
@@ -261,12 +261,61 @@ INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ppl.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr7t.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
@@ -279,14 +328,16 @@ INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
 OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
 INPUT .\front\macros.tex
 INPUT .\front\macros.tex
 INPUT .\front\macros.tex
@@ -482,12 +533,12 @@ INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
 INPUT .\chapters\conclusions.tex
 INPUT chapters\conclusions.tex
-INPUT .\main.bbl
-INPUT .\main.bbl
-INPUT main.bbl
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplrc7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
 INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT main.run.xml
+OUTPUT main.run.xml
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
